@@ -1,0 +1,110 @@
+\documentclass[12pt]{article}
+\usepackage[english]{babel}
+\usepackage{graphicx}
+\usepackage[T1]{fontenc}
+\usepackage[dvipsnames]{color}
+
+\usepackage[toc]{multitoc}
+
+\usepackage{a4wide}
+\usepackage{lipsum}
+\usepackage{float}
+\usepackage{array}
+\usepackage{dashrule}
+
+\usepackage[top=2cm, bottom=2cm, left=1cm, right=1cm]{geometry}
+
+\usepackage[colorlinks, linkcolor=blue]{hyperref}
+\usepackage{multicol}
+
+\usepackage{caption}
+
+\graphicspath{{../Images/}}
+\captionsetup[figure]{labelformat=empty}
+
+\newcommand{\infinity}{$\infty$}
+
+\newcommand{\image}[3]{
+	\begin{minipage}[l]{0.24\textwidth}
+		\includegraphics[width=\linewidth]{Square/#1}
+		\caption{\hyperref[text:#1]{
+			\parbox[t]{0.25\linewidth}{#1 \\ \hspace*{0pt}\protect\phantom{0}#3}%
+			\parbox[t]{0.7\linewidth}{\footnotesize #2}%
+			\parbox[t]{0pt}{\strut\\\strut\\\strut}%
+		}}
+		\label{fig:#1}
+	\end{minipage}%
+}
+
+\newcommand{\photo}[1]{
+	\begin{center}\begin{figure}[h]
+		\includegraphics[width=\linewidth]{Photos/#1.jpg}
+	\end{figure}\end{center}
+}
+
+\newenvironment{alllegotable}
+{
+	\section*{\centering Cummulative Info}
+	\begin{center}\begin{tabular}{p{50mm} | r | r | r r | r r | r}
+		\textbf{Lego Class} & \textbf{Pieces} & \textbf{Retail} & \multicolumn{2}{c |}{\textbf{Sets}} & \multicolumn{2}{c |}{\textbf{Complete}} & \textbf{Year} \\
+		\hline
+}{
+	\end{tabular}\end{center}
+}
+\newcommand{\allelem}[8]{
+	\hyperref[sec:#1]{#1} & #2 & #3 & #4 & #5 & #6 & #7 & #8\\
+}
+
+\newenvironment{legotable}[1]
+{
+	\begin{center}\section*{\hyperref[contents]{#1}}\label{sec:#1}\begin{tabular}{p{60mm} | >{\raggedright\arraybackslash}p{11mm} | >{\centering\arraybackslash}p{6mm}@{ / }>{\centering\arraybackslash}p{6mm}@{ / }>{\centering\arraybackslash}p{6mm} | >{\raggedleft\arraybackslash}p{10mm} | >{\raggedleft\arraybackslash}p{13mm} | >{\raggedleft\arraybackslash}p{15mm} | >{\raggedleft\arraybackslash}p{15mm}}
+		\textbf{Description} & \textbf{ID} & \multicolumn{3}{l|}{\textbf{Instructions/}} & \textbf{Year} & \textbf{Pieces} & \textbf{Retail} & \textbf{Amount}\\
+		& & \multicolumn{3}{l|}{\textbf{Complete/}} & & & \textbf{Price} & \\
+		& & \multicolumn{3}{l|}{\textbf{Bagged}} & & & & \\
+		\hline
+}{
+	\end{tabular}\end{center}
+}
+
+\newcommand{\elem}[9]{
+	#1 & \hyperref[fig:#2]{#2} & #3 & #4 & #5 & #6 & #7 & #9 & #8\label{text:#2} \\
+}
+
+\newcommand{\dotline}{\hdashrule{\fill}{1.2pt}{1.2pt 8pt}}
+\newcommand{\toc}[1]{
+	\hspace{20pt}#1\hspace{4pt}\dotline & \pageref{sec:#1} & \hspace{4pt}\dotline & \pageref{image:#1}\\
+}
+
+\begin{document}
+\thispagestyle{empty}
+
+\quad\vspace{4cm}
+\begin{figure}[h]\begin{center}
+	\includegraphics[width = 12cm]{lego.png}
+	\label{fig:title}
+\end{center}\end{figure}
+
+\newpage
+\newgeometry{top=4cm, bottom=2cm, left=3cm, right=3cm}
+\setlength{\tabcolsep}{0pt}
+
+\section*{\centering Contents\label{contents}}
+\begin{center}\begin{tabular}{p{200pt} >{\raggedleft\arraybackslash}p{63pt} >{\raggedleft\arraybackslash}p{79pt}}
+	\textbf{Section} & \hyperref[tables]{\textbf{Tables}} & \hyperref[images]{\textbf{Images}}\\
+\end{tabular}
+\begin{tabular}{p{250pt} >{\raggedleft\arraybackslash}p{13pt} p{66pt} >{\raggedleft\arraybackslash}p{13pt}}
+	\input{lego_toc.tex}
+\end{tabular}\end{center}
+
+\setlength{\tabcolsep}{6pt}
+\newgeometry{top=2cm, bottom=2cm, left=1cm, right=1cm}
+
+\newpage
+\label{tables}
+\input{lego_tables.tex}
+
+\newpage
+\label{images}
+\input{lego_images.tex}
+
+\end{document}
