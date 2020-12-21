@@ -1,0 +1,1990 @@
+[
+    {
+        "class": "Technic",
+        "sets": [
+            {
+                "id": 1257,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": false,
+                "date": "17/10/20"
+            },
+            {
+                "id": 1258,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": false,
+                "date": "17/10/20"
+            },
+            {
+                "id": 1259,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": false,
+                "date": "17/10/20"
+            },
+            {
+                "id": 1260,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": false,
+                "date": "17/10/20"
+            },
+            {
+                "id": 8203,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": false,
+                "date": "17/10/20"
+            },
+            {
+                "id": 8204,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": false,
+                "date": "17/10/20"
+            },
+            {
+                "id": 8281,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "17/10/20"
+            },
+            {
+                "id": 8047,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "17/10/20"
+            },
+            {
+                "id": 8271,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "17/10/20"
+            },
+            {
+                "id": 8283,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "17/10/20"
+            },
+            {
+                "id": 8434,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "17/10/20"
+            },
+            {
+                "id": 8263,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "17/10/20"
+            },
+            {
+                "id": 8288,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "17/10/20"
+            },
+            {
+                "id": 8043,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "17/10/20"
+            },
+            {
+                "id": 8287,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "17/10/20"
+            }
+        ]
+    },
+    {
+        "class": "Designer",
+        "sets": [
+            {
+                "id": 4099,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "04/11/20"
+            },
+            {
+                "id": 4101,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "18/10/20"
+            },
+            {
+                "id": 4506,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "17/10/20"
+            },
+            {
+                "id": 4507,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "17/10/20"
+            },
+            {
+                "id": 4882,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "18/10/20"
+            },
+            {
+                "id": 4888,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "17/10/20"
+            },
+            {
+                "id": 7219,
+                "quantity": 10,
+                "instructions": true,
+                "complete": true,
+                "complete amount": 10,
+                "bagged": true,
+                "date": "14/11/20",
+                "comment": "6x instructions"
+            }
+        ]
+    },
+    {
+        "class": "Power Miners",
+        "sets": [
+            {
+                "id": 8188,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "17/10/20"
+            },
+            {
+                "id": 8957,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "21/11/20"
+            },
+            {
+                "id": 8958,
+                "quantity": 1,
+                "instructions": true,
+                "complete": false,
+                "bagged": true,
+                "date": "21/11/20"
+            },
+            {
+                "id": 8960,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "17/10/20"
+            },
+            {
+                "id": 8964,
+                "quantity": 1,
+                "instructions": true,
+                "complete": false,
+                "bagged": true,
+                "date": "07/11/20"
+            }
+
+        ]
+    },
+    {
+        "class": "Inventor",
+        "sets": [
+            {
+                "id": 4090,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "17/10/20",
+                "comment": "Extra pieces: 3022, 3713"
+            },
+            {
+                "id": 4093,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "18/10/20"
+            },
+            {
+                "id": 4094,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "04/11/20"
+            }
+        ]
+    },
+    {
+        "class": "Exoforce",
+        "sets": [
+            {
+                "id": 7703,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "17/10/20"
+            }
+        ]
+    },
+    {
+        "class": "City",
+        "sets": [
+            {
+                "id": 7235,
+                "quantity": 3,
+                "instructions": true,
+                "complete": true,
+                "complete amount": 3,
+                "bagged": true,
+                "date": "08/11/20",
+                "comment": "2x Police in english, 1x polizei + white; some wheels repaired"
+            },
+            {
+                "id": 7236,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "08/11/20"
+            },
+            {
+                "id": 7245,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "08/11/20"
+            },
+            {
+                "id": 7743,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "17/10/20"
+            },
+            {
+                "id": 7241,
+                "quantity": 3,
+                "instructions": true,
+                "complete": true,
+                "complete amount": 2,
+                "bagged": true,
+                "date": "08/11/20",
+                "comment": "2x complete and 1x missing some pieces"
+            },
+            {
+                "id": 7942,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "17/10/20"
+            },
+            {
+                "id": 7239,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "18/10/20"
+            },
+            {
+                "id": 7046,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "04/11/20"
+            },
+            {
+                "id": 7246,
+                "quantity": 3,
+                "instructions": true,
+                "complete": true,
+                "complete amount": 3,
+                "bagged": true,
+                "date": "08/11/20"
+            },
+            {
+                "id": 7248,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "14/11/20"
+            },
+            {
+                "id": 7902,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "08/11/20"
+            },
+            {
+                "id": 7726,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "17/10/20"
+            },
+            {
+                "id": 4899,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "14/11/20"
+            },
+            {
+                "id": 7042,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "14/11/20"
+            }
+        ]
+    },
+    {
+        "class": "Creator",
+        "sets": [
+            {
+                "id": 4915,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "17/10/20"
+            },
+            {
+                "id": 4918,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "04/11/20"
+            },
+            {
+                "id": 4939,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "17/10/20"
+            },
+            {
+                "id": 4891,
+                "quantity": 2,
+                "instructions": true,
+                "complete": true,
+                "complete amount": 2,
+                "bagged": true,
+                "date": "17/10/20"
+            }
+        ]
+    },
+    {
+        "class": "Racers",
+        "sets": [
+            {
+                "id": 4566,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "14/11/20"
+            },
+            {
+                "id": 4582,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "14/11/20"
+            },
+            {
+                "id": 4583,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "14/11/20"
+            },
+            {
+                "id": 4594,
+                "quantity": 1,
+                "instructions": true,
+                "complete": false,
+                "bagged": true,
+                "date": "14/11/20"
+            },
+            {
+                "id": 8643,
+                "quantity": 2,
+                "instructions": true,
+                "complete": true,
+                "complete amount": 2,
+                "bagged": true,
+                "date": "07/11/20"
+            },
+            {
+                "id": 8656,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "07/11/20"
+            },
+            {
+                "id": 8657,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "07/11/20"
+            },
+            {
+                "id": 8661,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "07/11/20"
+            },
+            {
+                "id": 8662,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "07/11/20"
+            },
+            {
+                "id": 8663,
+                "quantity": 1,
+                "instructions": true,
+                "complete": false,
+                "bagged": true,
+                "date": "07/11/20"
+            },
+            {
+                "id": 8664,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "07/11/20"
+            },
+            {
+                "id": 8665,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "07/11/20"
+            },
+            {
+                "id": 8666,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "07/11/20"
+            },
+            {
+                "id": 8151,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "07/11/20"
+            },
+            {
+                "id": 7802,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "14/11/20"
+            },
+            {
+                "id": 8124,
+                "quantity": 1,
+                "instructions": true,
+                "complete": false,
+                "bagged": true,
+                "date": "08/11/20"
+            },
+            {
+                "id": 8383,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "04/11/20"
+            },
+            {
+                "id": 8385,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "04/11/20"
+            },
+            {
+                "id": 8357,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "05/11/20"
+            },
+            {
+                "id": 8647,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "18/10/20",
+                "comment": "without extra"
+            },
+            {
+                "id": 8670,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "17/10/20"
+            },
+            {
+                "id": 8669,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "05/11/20"
+            },
+            {
+                "id": 8139,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "17/10/20"
+            },
+            {
+                "id": 8491,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "17/10/20"
+            },
+            {
+                "id": 8162,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "17/10/20"
+            }
+        ]
+    },
+    {
+        "class": "Agents",
+        "sets": [
+            {
+                "id": 8631,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "17/10/20"
+            }
+        ]
+    },
+    {
+        "class": "Castle",
+        "sets": [
+            {
+                "id": 7090,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "14/11/20"
+            },
+            {
+                "id": 7040,
+                "quantity": 1,
+                "instructions": true,
+                "complete": false,
+                "bagged": true,
+                "date": "04/11/20"
+            },
+            {
+                "id": 5998,
+                "quantity": 1,
+                "instructions": false,
+                "complete": true,
+                "bagged": true,
+                "date": "14/11/20"
+            },
+            {
+                "id": 6026,
+                "quantity": 1,
+                "instructions": false,
+                "complete": true,
+                "bagged": true,
+                "date": "14/11/20"
+            },
+            {
+                "id": 7955,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "14/11/20"
+            },
+            {
+                "id": 8771,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "17/10/20"
+            },
+            {
+                "id": 4944,
+                "quantity": 1,
+                "instructions": false,
+                "complete": false,
+                "bagged": true,
+                "date": "14/11/20"
+            },
+            {
+                "id": 4946,
+                "quantity": 1,
+                "instructions": false,
+                "complete": true,
+                "bagged": true,
+                "date": "14/11/20"
+            }
+        ]
+    },
+    {
+        "class": "System",
+        "sets": [
+            {
+                "id": 2158,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "08/11/20"
+            },
+            {
+                "id": 2707,
+                "quantity": 2,
+                "instructions": true,
+                "complete": true,
+                "complete amount": 2,
+                "bagged": true,
+                "date": "14/11/20",
+                "comment": "On plane to/from Ireland 2000"
+            },
+            {
+                "id": 2722,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "08/11/20",
+                "comment": "On plane to/from Ireland 2000"
+            },
+            {
+                "id": 4018,
+                "quantity": 1,
+                "instructions": false,
+                "complete": true,
+                "bagged": true,
+                "date": "14/11/20"
+            },
+            {
+                "id": 3233,
+                "quantity": 2,
+                "instructions": true,
+                "complete": true,
+                "complete amount": 2,
+                "bagged": true,
+                "date": "08/11/20"
+            },
+            {
+                "id": 3234,
+                "quantity": 1,
+                "instructions": true,
+                "complete": false,
+                "bagged": true,
+                "date": "08/11/20"
+            },
+            {
+                "id": 2846,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "14/11/20"
+            },
+            {
+                "id": 2849,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "14/11/20"
+            },
+            {
+                "id": 2871,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "14/11/20"
+            },
+            {
+                "id": 2872,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "14/11/20"
+            },
+            {
+                "id": 2882,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "14/11/20"
+            },
+            {
+                "id": 6415,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "14/11/20",
+                "comment": "Also 6428"
+            },
+            {
+                "id": 1250,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "14/11/20"
+            },
+            {
+                "id": 6423,
+                "quantity": 2,
+                "instructions": true,
+                "complete": true,
+                "complete amount": 2,
+                "bagged": true,
+                "date": "08/11/20",
+                "comment": "additional minifig con003, torso: 973px177x01, head: 3626bpx121"
+            }
+        ]
+    },
+    {
+        "class": "Bionicle",
+        "sets": [
+            {
+                "id": 8586,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "18/10/20"
+            },
+            {
+                "id": 8608,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "18/10/20"
+            },
+            {
+                "id": 8725,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "18/10/20"
+            },
+            {
+                "id": 8534,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "17/10/20"
+            },
+            {
+                "id": 8590,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "17/10/20"
+            },
+            {
+                "id": 8615,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "18/10/20"
+            },
+            {
+                "id": 8617,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "17/10/20"
+            },
+            {
+                "id": 8619,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "17/10/20"
+            },
+            {
+                "id": 8900,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "17/10/20"
+            },
+            {
+                "id": 8902,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "17/10/20"
+            },
+            {
+                "id": 8904,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "17/10/20"
+            },
+            {
+                "id": 8727,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "17/10/20"
+            },
+            {
+                "id": 8732,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "17/10/20"
+            },
+            {
+                "id": 8763,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "17/10/20"
+            }
+        ]
+    },
+    {
+        "class": "Vikings",
+        "sets": [
+            {
+                "id": 7015,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "04/11/20"
+            }
+        ]
+    },
+    {
+        "class": "Star Wars",
+        "sets": [
+            {
+                "id": 7676,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "18/10/20"
+            }
+        ]
+    },
+    {
+        "class": "Alpha Team",
+        "sets": [
+            {
+                "id": 4794,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "04/11/20"
+            }
+        ]
+    },
+    {
+        "class": "Main Street",
+        "sets": [
+            {
+                "id": 10041,
+                "quantity": 1,
+                "instructions": true,
+                "complete": false,
+                "bagged": true,
+                "date": "21/11/20"
+            }
+        ]
+    },
+    {
+        "class": "Life on Mars",
+        "sets": [
+            {
+                "id": 7316,
+                "quantity": 1,
+                "instructions": true,
+                "complete": false,
+                "bagged": true,
+                "date": "04/11/20"
+            }
+        ]
+    },
+    {
+        "class": "Harry Potter",
+        "sets": [
+            {
+                "id": 4757,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "04/11/20"
+            }
+        ]
+    },
+    {
+        "class": "Dinosaurs",
+        "sets": [
+            {
+                "id": 7000,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "08/11/20"
+            },
+            {
+                "id": 7001,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "08/11/20"
+            },
+            {
+                "id": 7002,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "08/11/20"
+            },
+            {
+                "id": 7003,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "08/11/20"
+            },
+            {
+                "id": 6719,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "08/11/20"
+            },
+            {
+                "id": 6720,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "08/11/20"
+            },
+            {
+                "id": 6721,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "08/11/20"
+            },
+            {
+                "id": 6722,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "08/11/20"
+            }
+        ]
+    },
+    {
+        "class": "Jack Stone",
+        "sets": [
+            {
+                "id": 4607,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "14/11/20"
+            },
+            {
+                "id": 4614,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "08/11/20"
+            }
+        ]
+    },
+    {
+        "class": "Advent Calendar",
+        "sets": [
+            {
+                "id": 2250,
+                "quantity": 1,
+                "instructions": true,
+                "complete": false,
+                "bagged": true,
+                "date": "08/11/20"
+            },
+            {
+                "id": 7907,
+                "quantity": 1,
+                "instructions": true,
+                "complete": false,
+                "bagged": true,
+                "date": "14/11/20"
+            },
+            {
+                "id": 2824,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "14/11/20"
+            }
+        ]
+    },
+    {
+        "class": "Sports",
+        "sets": [
+            {
+                "id": 3407,
+                "quantity": 1,
+                "instructions": true,
+                "complete": false,
+                "bagged": true,
+                "date": "08/11/20"
+            },
+            {
+                "id": 3429,
+                "quantity": 1,
+                "instructions": false,
+                "complete": false,
+                "bagged": true,
+                "date": "21/11/20"
+            }
+        ]
+    },
+    {
+        "class": "Game",
+        "sets": [
+            {
+                "id": 3838,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "14/11/20"
+            },
+            {
+                "id": 3839,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "14/11/20"
+            },
+            {
+                "id": 3842,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "14/11/20",
+                "comment": "sealed"
+            },
+            {
+                "id": 3843,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "14/11/20"
+            }
+        ]
+    },
+    {
+        "class": "Island Xtreme Stunts",
+        "sets": [
+            {
+                "id": 6734,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": true,
+                "date": "14/11/20"
+            }
+        ]
+    },
+    {
+        "class": "Adventurers",
+        "sets": [
+            {
+                "id": 7410,
+                "quantity": 1,
+                "instructions": true,
+                "complete": false,
+                "bagged": true,
+                "date": "14/11/20"
+            }
+        ]
+    },
+    {
+        "class": "Basic",
+        "sets": [
+            {
+                "id": 5370,
+                "quantity": 1,
+                "instructions": true,
+                "complete": false,
+                "bagged": true,
+                "date": "14/11/20"
+            },
+            {
+                "id": 4423,
+                "quantity": 1,
+                "instructions": false,
+                "complete": true,
+                "bagged": true,
+                "date": "14/11/20"
+            },
+            {
+                "id": 4781,
+                "quantity": 1,
+                "instructions": false,
+                "complete": true,
+                "bagged": true,
+                "date": "21/11/20"
+            },
+            {
+                "id": 4782,
+                "quantity": 1,
+                "instructions": false,
+                "complete": false,
+                "bagged": true,
+                "date": "21/11/20"
+            },
+            {
+                "id": "628-3",
+                "quantity": 2,
+                "instructions": false,
+                "complete": true,
+                "complete amount": 2,
+                "bagged": true,
+                "date": "21/12/20"
+            }
+        ]
+    },
+    {
+        "class": "Classic",
+        "sets": [
+            {
+                "id": 200,
+                "quantity": 1,
+                "instructions": true,
+                "complete": false,
+                "bagged": false,
+                "date": "15/11/20"
+            },
+            {
+                "id": 261,
+                "quantity": 1,
+                "instructions": true,
+                "complete": false,
+                "bagged": false,
+                "date": "15/11/20"
+            },
+            {
+                "id": 335,
+                "quantity": 1,
+                "instructions": true,
+                "complete": false,
+                "bagged": false,
+                "date": "15/11/20"
+            },
+            {
+                "id": 336,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": false,
+                "date": "15/11/20"
+            },
+            {
+                "id": 344,
+                "quantity": 1,
+                "instructions": true,
+                "complete": false,
+                "bagged": false,
+                "date": "15/11/20"
+            },
+            {
+                "id": 347,
+                "quantity": 1,
+                "instructions": true,
+                "complete": false,
+                "bagged": false,
+                "date": "15/11/20"
+            },
+            {
+                "id": 348,
+                "quantity": 2,
+                "instructions": true,
+                "complete": true,
+                "complete amount": 1,
+                "bagged": false,
+                "date": "15/11/20",
+                "comment": "1x complete"
+            },
+            {
+                "id": 351,
+                "quantity": 1,
+                "instructions": true,
+                "complete": false,
+                "bagged": false,
+                "date": "15/11/20"
+            },
+            {
+                "id": 611,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": false,
+                "date": "15/11/20"
+            },
+            {
+                "id": 615,
+                "quantity": 1,
+                "instructions": true,
+                "complete": false,
+                "bagged": false,
+                "date": "15/11/20"
+            },
+            {
+                "id": 621,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": false,
+                "date": "15/11/20"
+            },
+            {
+                "id": 622,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": false,
+                "date": "15/11/20"
+            },
+            {
+                "id": 623,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": false,
+                "date": "15/11/20"
+            },
+            {
+                "id": 643,
+                "quantity": 1,
+                "instructions": true,
+                "complete": false,
+                "bagged": false,
+                "date": "15/11/20"
+            },
+            {
+                "id": 645,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": false,
+                "date": "15/11/20"
+            },
+            {
+                "id": 646,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": false,
+                "date": "15/11/20"
+            },
+            {
+                "id": 650,
+                "quantity": 1,
+                "instructions": true,
+                "complete": false,
+                "bagged": false,
+                "date": "15/11/20"
+            },
+            {
+                "id": 661,
+                "quantity": 1,
+                "instructions": true,
+                "complete": false,
+                "bagged": false,
+                "date": "15/11/20"
+            },
+            {
+                "id": 1550,
+                "quantity": 2,
+                "instructions": true,
+                "complete": true,
+                "complete amount": 1,
+                "bagged": false,
+                "date": "15/11/20",
+                "comment": "1x complete"
+            },
+            {
+                "id": 1551,
+                "quantity": 2,
+                "instructions": true,
+                "complete": true,
+                "complete amount": 1,
+                "bagged": false,
+                "date": "15/11/20",
+                "comment": "1x complete"
+            },
+            {
+                "id": 801,
+                "quantity": 1,
+                "instructions": true,
+                "complete": false,
+                "bagged": true,
+                "date": "14/11/20"
+            },
+            {
+                "id": 802,
+                "quantity": 5,
+                "instructions": true,
+                "complete": true,
+                "complete amount": 1,
+                "bagged": true,
+                "date": "14/11/20",
+                "comment": "1x complete, and 1x complete part of 801"
+            },
+            {
+                "id": 995,
+                "quantity": 1,
+                "instructions": true,
+                "complete": false,
+                "bagged": false,
+                "date": "15/11/20",
+                "comment": "missing cable, extra 2x 3134 1x2 brick with cable cutout"
+            },
+            {
+                "id": "212-1",
+                "quantity": 1,
+                "instructions": true,
+                "complete": false,
+                "bagged": false,
+                "date": "11/12/20"
+            },
+            {
+                "id": "213-2",
+                "quantity": 1,
+                "instructions": true,
+                "complete": false,
+                "bagged": false,
+                "date": "11/12/20"
+            },
+            {
+                "id": "330-3",
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": false,
+                "date": "11/12/20"
+            },
+            {
+                "id": 329,
+                "quantity": 1,
+                "instructions": true,
+                "complete": false,
+                "bagged": false,
+                "date": "11/12/20"
+            },
+            {
+                "id": "337-2",
+                "quantity": 1,
+                "instructions": true,
+                "complete": false,
+                "bagged": false,
+                "date": "11/12/20"
+            },
+            {
+                "id": "602-2",
+                "quantity": 1,
+                "instructions": true,
+                "complete": false,
+                "bagged": false,
+                "date": "11/12/20"
+            }
+
+        ]
+    },
+    {
+        "class": "Classic Train",
+        "sets": [
+            {
+                "id": 103,
+                "quantity": 2,
+                "instructions": true,
+                "complete": false,
+                "complete amount": 0,
+                "bagged": false,
+                "date": "15/11/20",
+                "comment": "2x motors, 2x 6x16 plate with cutout, 1x battery box"
+            },
+            {
+                "id": 125,
+                "quantity": 1,
+                "instructions": true,
+                "complete": false,
+                "bagged": false,
+                "date": "15/11/20"
+            },
+            {
+                "id": 126,
+                "quantity": 1,
+                "instructions": true,
+                "complete": false,
+                "bagged": false,
+                "date": "15/11/20"
+            },
+            {
+                "id": 150,
+                "quantity": 4,
+                "instructions": true,
+                "complete": true,
+                "complete amount": 4,
+                "bagged": false,
+                "date": "15/11/20",
+                "comment": "total 79x straight rail"
+            },
+            {
+                "id": 151,
+                "quantity": 4,
+                "instructions": true,
+                "complete": true,
+                "complete amount": 4,
+                "bagged": false,
+                "date": "15/11/20",
+                "comment": "total 38x inner/outer curved rail"
+            },
+            {
+                "id": 154,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": false,
+                "date": "15/11/20"
+            },
+            {
+                "id": 155,
+                "quantity": 2,
+                "instructions": true,
+                "complete": true,
+                "complete amount": 2,
+                "bagged": false,
+                "date": "15/11/20"
+            },
+            {
+                "id": 158,
+                "quantity": 2,
+                "instructions": true,
+                "complete": true,
+                "complete amount": 2,
+                "bagged": false,
+                "date": "15/11/20"
+            },
+            {
+                "id": 343,
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": false,
+                "date": "15/11/20"
+            }
+        ]
+    },
+    {
+        "class": "Classic Basic",
+        "sets": [
+            {
+                "id": 994,
+                "quantity": 2,
+                "instructions": false,
+                "complete": true,
+                "complete amount": 1,
+                "bagged": true,
+                "date": "5/12/20",
+                "comment": "1x complete"
+            },
+            {
+                "id": "401-2",
+                "quantity": 2,
+                "instructions": false,
+                "complete": true,
+                "complete amount": 2,
+                "bagged": true,
+                "date": "5/12/20",
+                "comment": "2x complete"
+            },
+            {
+                "id": "901-2",
+                "quantity": 4,
+                "instructions": false,
+                "complete": true,
+                "complete amount": 2,
+                "bagged": true,
+                "date": "5/12/20",
+                "comment": "2x complete, 2x missing hinge"
+            },
+            {
+                "id": "400-4",
+                "quantity": 3,
+                "instructions": false,
+                "complete": true,
+                "complete amount": 2,
+                "bagged": true,
+                "date": "5/12/20",
+                "comment": "2x complete, one edge broken on 4x8 plate white"
+            },
+            {
+                "id": "900-2",
+                "quantity": 1,
+                "instructions": false,
+                "complete": true,
+                "bagged": true,
+                "date": "5/12/20"
+            },
+            {
+                "id": "700-1-1-1",
+                "quantity": 1,
+                "instructions": false,
+                "complete": true,
+                "bagged": true,
+                "date": "5/12/20",
+                "comment": "medium green"
+            },
+            {
+                "id": "417-4",
+                "quantity": 1,
+                "instructions": false,
+                "complete": true,
+                "bagged": true,
+                "date": "5/12/20",
+                "comment": "red + white"
+            },
+            {
+                "id": "414-6",
+                "quantity": 2,
+                "instructions": false,
+                "complete": true,
+                "complete amount": 2,
+                "bagged": true,
+                "date": "5/12/20",
+                "comment": "2x white, 1x 7026bc01 broken (1x2x2 window), extra: 2x 27bc01 (1x2x1 window) (1x broken)"
+            },
+            {
+                "id": "481-6",
+                "quantity": 1,
+                "instructions": false,
+                "complete": true,
+                "bagged": true,
+                "date": "5/12/20",
+                "comment": "blue"
+            },
+            {
+                "id": "481-4",
+                "quantity": 1,
+                "instructions": false,
+                "complete": false,
+                "bagged": true,
+                "date": "5/12/20",
+                "comment": "blue"
+            },
+            {
+                "id": "480-5",
+                "quantity": 1,
+                "instructions": false,
+                "complete": true,
+                "bagged": true,
+                "date": "5/12/20",
+                "comment": "blue"
+            },
+            {
+                "id": "480-6",
+                "quantity": 4,
+                "instructions": false,
+                "complete": true,
+                "complete amount": 3,
+                "bagged": true,
+                "date": "5/12/20",
+                "comment": "red"
+            },
+            {
+                "id": "482-4",
+                "quantity": 1,
+                "instructions": false,
+                "complete": false,
+                "bagged": true,
+                "date": "5/12/20",
+                "comment": "blue"
+            },
+            {
+                "id": "423-3",
+                "quantity": 5,
+                "instructions": false,
+                "complete": true,
+                "complete amount": 2,
+                "bagged": true,
+                "date": "5/12/20",
+                "comment": "2x red + white (1x complete), 2x blue + yellow (1x complete), 1x black + clear"
+            },
+            {
+                "id": "224-3",
+                "quantity": 1,
+                "instructions": false,
+                "complete": true,
+                "bagged": true,
+                "date": "5/12/20",
+                "comment": "red, 19 pieces (EU)"
+            },
+            {
+                "id": "915-1",
+                "quantity": 1,
+                "instructions": false,
+                "complete": false,
+                "bagged": true,
+                "date": "5/12/20",
+                "comment": "red + white, extra 1x 702 white 4x4 corner brick"
+            },
+            {
+                "id": "218-2",
+                "quantity": 7,
+                "instructions": false,
+                "complete": true,
+                "complete amount": 5,
+                "bagged": true,
+                "date": "5/12/20",
+                "comment": "3x red (3x complete), 1x white (not complete), 1x blue (1x complete), 1x yellow (not complete), 1x black (1x complete)"
+            },
+            {
+                "id": "220-1",
+                "quantity": 2,
+                "instructions": false,
+                "complete": true,
+                "complete amount": 1,
+                "bagged": true,
+                "date": "5/12/20",
+                "comment": "1x white (1x complete), 1x yellow (not complete)"
+            },
+            {
+                "id": "971-1",
+                "quantity": 5,
+                "instructions": false,
+                "complete": true,
+                "complete amount": 1,
+                "bagged": true,
+                "date": "5/12/20",
+                "comment": "3x blue + yellow (1x complete), 1x red + white (not complete) (extra 3x white 1x2 tile), 1x black + light gray (not complete)"
+            },
+            {
+                "id": "988-1",
+                "quantity": 2,
+                "instructions": false,
+                "complete": true,
+                "complete amount": 1,
+                "bagged": true,
+                "date": "11/12/20",
+                "comment": "1x complete"
+            },
+            {
+                "id": "987-1",
+                "quantity": 1,
+                "instructions": false,
+                "complete": false,
+                "bagged": true,
+                "date": "11/12/20"
+            },
+            {
+                "id": "488-1",
+                "quantity": 1,
+                "instructions": false,
+                "complete": false,
+                "bagged": true,
+                "date": "11/12/20"
+            },
+            {
+                "id": "437-1",
+                "quantity": 1,
+                "instructions": false,
+                "complete": false,
+                "bagged": true,
+                "date": "11/12/20"
+            },
+            {
+                "id": "906-1",
+                "quantity": 1,
+                "instructions": false,
+                "complete": false,
+                "bagged": true,
+                "date": "11/12/20"
+            },
+            {
+                "id": "402-2",
+                "quantity": 1,
+                "instructions": false,
+                "complete": false,
+                "bagged": true,
+                "date": "11/12/20"
+            },
+            {
+                "id": "022-1",
+                "quantity": 1,
+                "instructions": false,
+                "complete": false,
+                "bagged": true,
+                "date": "11/12/20"
+            },
+            {
+                "id": "481-3",
+                "quantity": 1,
+                "instructions": false,
+                "complete": false,
+                "bagged": true,
+                "date": "11/12/20",
+                "comment": "1x red"
+            },
+            {
+                "id": "483-5",
+                "quantity": 1,
+                "instructions": false,
+                "complete": false,
+                "bagged": true,
+                "date": "11/12/20",
+                "comment": "1x blue"
+            },
+            {
+                "id": "055-2",
+                "quantity": 1,
+                "instructions": false,
+                "complete": false,
+                "bagged": true,
+                "date": "11/12/20"
+            }
+        ]
+    },
+    {
+        "class": "Classic Baseplate",
+        "sets": [
+            {
+                "id": "700-E",
+                "quantity": 2,
+                "instructions": false,
+                "complete": true,
+                "complete amount": 2,
+                "bagged": true,
+                "date": "11/12/20",
+                "comment": "2x red (2x complete)"
+            },
+            {
+                "id": "700-1",
+                "quantity": 5,
+                "instructions": false,
+                "complete": true,
+                "complete amount": 5,
+                "bagged": true,
+                "date": "11/12/20",
+                "comment": "2x red (2x complete), 1x white (1x complete), 2x light gray (2x complete)"
+            },
+            {
+                "id": "796-1",
+                "quantity": 3,
+                "instructions": false,
+                "complete": true,
+                "complete amount": 1,
+                "bagged": true,
+                "date": "11/12/20",
+                "comment": "1x complete"
+            },
+            {
+                "id": "797-1",
+                "quantity": 1,
+                "instructions": false,
+                "complete": true,
+                "bagged": true,
+                "date": "11/12/20"
+            },
+            {
+                "id": "795-1",
+                "quantity": 1,
+                "instructions": false,
+                "complete": false,
+                "bagged": true,
+                "date": "11/12/20"
+            },
+            {
+                "id": "798",
+                "quantity": 2,
+                "instructions": false,
+                "complete": true,
+                "complete amount": 1,
+                "bagged": true,
+                "date": "11/12/20",
+                "comment": "1x complete"
+            },
+            {
+                "id": "449-1",
+                "quantity": 1,
+                "instructions": false,
+                "complete": false,
+                "bagged": true,
+                "date": "21/12/20",
+                "comment": "Broken and split into 24x24, 25x24, 50x24"
+            },
+            {
+                "id": "800-3",
+                "quantity": 1,
+                "instructions": false,
+                "complete": true,
+                "bagged": true,
+                "date": "21/12/20"
+            }
+        ]
+    },
+    {
+        "class": "Domanico Delanico",
+        "sets": [
+            {
+                "id": "484",
+                "quantity": 2,
+                "instructions": true,
+                "complete": true,
+                "complete amount": 0,
+                "bagged": true,
+                "date": "15/11/20"
+            }
+        ]
+    }
+]

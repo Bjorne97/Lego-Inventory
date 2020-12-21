@@ -1,0 +1,52 @@
+[
+    {
+        "id": 8383,
+        "borrowed": [
+            {
+                "item": "wheels",
+                "color": "yellow",
+                "amount": 4
+            }
+        ]
+    },
+    {
+        "id": 8385,
+        "borrowed": [
+            {
+                "item": "wheels",
+                "color": "red",
+                "amount": 4
+            }
+        ]
+    },
+    {
+        "id": 8357,
+        "borrowed": [
+            {
+                "item": "wheels flat",
+                "color": "light gray",
+                "amount": 4
+            }
+        ]
+    },
+    {
+        "id": 8491,
+        "borrowed": [
+            {
+                "item": "wheels flat",
+                "color": "black",
+                "amount": 4
+            }
+        ]
+    },
+    {
+        "id": 8670,
+        "borrowed": [
+            {
+                "item": "wheels",
+                "color": "light gray",
+                "amount": 4
+            }
+        ]
+    }
+]

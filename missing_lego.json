@@ -1,0 +1,947 @@
+[
+    {
+        "id": 8964,
+        "missing": [
+            {
+                "id": "52",
+                "color": "red translusent",
+                "amount": 1,
+                "comment": "crystal"
+            }
+        ]
+    },
+    {
+        "id": 10041,
+        "missing": [
+            {
+                "id": "3742",
+                "color": "yellow",
+                "amount": 2,
+                "comment": "little flower",
+                "replaced": "3x white 3742, 1x green 3741"
+            }
+        ]
+    },
+    {
+        "id": 7316,
+        "missing": [
+            {
+                "id": "3040",
+                "color": "light grey",
+                "amount": 1,
+                "comment": "roof 1x2"
+            }
+        ]
+    },
+    {
+        "id": 8958,
+        "missing": [
+            {
+                "id": "32062",
+                "color": "red",
+                "amount": 1,
+                "comment": "l2 axle",
+                "replaced": "black"
+            }
+        ]
+    },
+    {
+        "id": 7040,
+        "missing": [
+            {
+                "id": "4140303",
+                "color": "black",
+                "amount": 1,
+                "comment": "l4 stick"
+            }
+        ]
+    },
+    {
+        "id": 8663,
+        "missing": [
+            {
+                "id": "30602",
+                "color": "metallic silver",
+                "amount": 1,
+                "comment": "2x2 slope curved",
+                "replaced": "44675 light gray"
+            },
+            {
+                "id": "3069b",
+                "color": "light gray",
+                "amount": 1,
+                "comment": "2x1 flat",
+                "replaced": "borrowed from 971-1 (old)"
+            }
+        ]
+    },
+    {
+        "id": 3234,
+        "missing": [
+            {
+                "id": "3901",
+                "color": "black",
+                "amount": 1,
+                "comment": "male hair",
+                "replaced": "4530 black"
+            }
+        ]
+    },
+    {
+        "id": 8124,
+        "missing": [
+            {
+                "id": "64699",
+                "color": "dark gray",
+                "amount": 1,
+                "comment": "fold-out race track case"
+            }
+        ]
+    },
+    {
+        "id": 7241,
+        "missing": [
+            {
+                "id": "54200",
+                "color": "blue translusent",
+                "amount": 2,
+                "comment": "1x1 slope"
+            },
+            {
+                "id": "-",
+                "color": "yellow",
+                "amount": 2,
+                "comment": "hand",
+                "replaced": "dark gray"
+            }
+        ]
+    },
+    {
+        "id": 2250,
+        "missing": [
+            {
+                "id": "3004px20",
+                "color": "white",
+                "amount": 1,
+                "comment": "1x2 with santa claus"
+            }
+        ]
+    },
+    {
+        "id": 3407,
+        "missing": [
+            {
+                "id": "-",
+                "color": "black",
+                "amount": 1,
+                "comment": "hand",
+                "replaced": "dark gray"
+            }
+        ]
+    },
+    {
+        "id": 7907,
+        "missing": [
+            {
+                "id": "4006",
+                "color": "black",
+                "amount": 1,
+                "comment": "wrench"
+            }
+        ]
+    },
+    {
+        "id": 4594,
+        "missing": [
+            {
+                "id": "30374",
+                "color": "black",
+                "amount": 1,
+                "comment": "stick"
+            },
+            {
+                "id": "2412",
+                "color": "black",
+                "amount": 1,
+                "comment": "grill",
+                "replaced": "dark gray"
+            }
+        ]
+    },
+    {
+        "id": 4944,
+        "missing": [
+            {
+                "id": "51806",
+                "color": "orange",
+                "amount": 1,
+                "comment": "sword"
+            }
+        ]
+    },
+    {
+        "id": "5370a",
+        "missing": [
+            {
+                "id": "3665",
+                "color": "red",
+                "amount": 1,
+                "comment": "1x2 slope inverted"
+            },
+            {
+                "id": "3022",
+                "color": "white",
+                "amount": 1,
+                "comment": "2x2 plate"
+            }
+        ]
+    },
+    {
+        "id": "5370b",
+        "missing": [
+            {
+                "id": "3298",
+                "color": "red",
+                "amount": 2,
+                "comment": "3x2 slope, 2x borrowed to 351 (old)"
+            }
+        ]
+    },
+    {
+        "id": "4782-1",
+        "missing": [
+            {
+                "id": "3005",
+                "color": "blue",
+                "amount": 1,
+                "comment": "1x1 brick"
+            },
+            {
+                "id": "3003",
+                "color": "blue",
+                "amount": 1,
+                "comment": "2x2 brick"
+            },
+            {
+                "id": "3001",
+                "color": "white",
+                "amount": 1,
+                "comment": "2x4 brick"
+            },
+            {
+                "id": "3004",
+                "color": "red",
+                "amount": 3,
+                "comment": "1x2 brick"
+            },
+            {
+                "id": "3004",
+                "color": "white",
+                "amount": 4,
+                "comment": "1x2 brick"
+            },
+            {
+                "id": "3004",
+                "color": "yellow",
+                "amount": 1,
+                "comment": "1x2 brick, + 7x borrowed to 335 (old)"
+            },
+            {
+                "id": "3009",
+                "color": "white",
+                "amount": 1,
+                "comment": "1x6 brick, borrowed to 344 (old)"
+            },
+            {
+                "id": "3009",
+                "color": "yellow",
+                "amount": 1,
+                "comment": "1x6 brick, borrowed to 335 (old)"
+            },
+            {
+                "id": "3009",
+                "color": "blue",
+                "amount": 2,
+                "comment": "1x6 brick, borrowed to 348 (old)"
+            },
+            {
+                "id": "3008",
+                "color": "white",
+                "amount": 2,
+                "comment": "1x8 brick, borrowed to 344 (old)"
+            }
+        ]
+    },
+    {
+        "id": 801,
+        "missing": [
+            {
+                "id": "3023",
+                "color": "gul",
+                "amount": 1,
+                "comment": "1x2 plate"
+            }
+        ]
+    },
+    {
+        "id": 802,
+        "missing": [
+            {
+                "id": "bb301",
+                "color": "metal",
+                "amount": 4,
+                "comment": "l2 metal connector"
+            },
+            {
+                "id": "x1299",
+                "color": "red",
+                "amount": 1,
+                "comment": "bush"
+            },
+            {
+                "id": "3707",
+                "color": "milky white",
+                "amount": 8,
+                "comment": "l8 axle"
+            },
+            {
+                "id": "3708",
+                "color": "milky white",
+                "amount": 2,
+                "comment": "l12 axle"
+            }
+        ]
+    },
+    {
+        "id": 7410,
+        "missing": [
+            {
+                "id": "30167",
+                "color": "brown",
+                "amount": 1,
+                "comment": "hat"
+            }
+        ]
+    },
+    {
+        "id": 3429,
+        "missing": [
+            {
+                "id": "3707",
+                "color": "black",
+                "amount": 1,
+                "comment": "l8 axle",
+                "replaced": "milky white (old)"
+            },
+            {
+                "id": "6538b",
+                "color": "black",
+                "amount": 1,
+                "comment": "l2 axle joiner",
+                "replaced": "6538c"
+            },
+            {
+                "id": "32064",
+                "color": "black",
+                "amount": 2,
+                "comment": "1x2 brick with axle hole",
+                "replaced": "dark gray"
+            },
+            {
+                "id": "3700",
+                "color": "red",
+                "amount": 1,
+                "comment": "1x2 brick with pin hole",
+                "replaced": "orange"
+            }
+        ]
+    },
+    {
+        "id": 261,
+        "missing": [
+            {
+                "id": "3024",
+                "color": "clear",
+                "amount": 1,
+                "comment": "1x1 plate"
+            },
+            {
+                "id": "3031",
+                "color": "red",
+                "amount": 1,
+                "comment": "4x4 plate",
+                "replaced": "(new)"
+            }
+        ]
+    },
+    {
+        "id": 347,
+        "missing": [
+            {
+                "id": "777pb07",
+                "color": "white",
+                "amount": 1,
+                "comment": "red lego flag"
+            },
+            {
+                "id": "3135c04",
+                "color": "red",
+                "amount": 1,
+                "comment": "arm with hook, partially broken hook"
+            },
+            {
+                "id": "FTPine",
+                "color": "green",
+                "amount": 1,
+                "comment": "pine",
+                "replaced": "3471 (new)"
+            }
+        ]
+    },
+    {
+        "id": 344,
+        "missing": [
+            {
+                "id": "FTPineH",
+                "color": "green",
+                "amount": 2,
+                "comment": "pine",
+                "replaced": "1x 3471 (new), 1x 2435 (new)"
+            },
+            {
+                "id": "3144",
+                "color": "white",
+                "amount": 1,
+                "comment": "tv-antenna, broken, only pole left"
+            },
+            {
+                "id": "3008",
+                "color": "white",
+                "amount": 2,
+                "comment": "1x8 brick",
+                "replaced": "borrowed from 4782 (new)"
+            },
+            {
+                "id": "3009",
+                "color": "white",
+                "amount": 1,
+                "comment": "1x6 brick",
+                "replaced": "2x borrowed from 4782 (new)"
+            }
+        ]
+    },
+    {
+        "id": 351,
+        "missing": [
+            {
+                "id": "3298",
+                "color": "red",
+                "amount": 2,
+                "comment": "3x2 slope",
+                "replaced": "2x borrowed from 5370b (new)"
+            },
+            {
+                "id": "3297",
+                "color": "red",
+                "amount": 2,
+                "comment": "3x4 slope",
+                "replaced": "2x 3298 (new), 1x 3297 (new)"
+            }
+        ]
+    },
+    {
+        "id": 348,
+        "missing": [
+            {
+                "id": "3009",
+                "color": "blue",
+                "amount": 3,
+                "comment": "1x6 brick",
+                "replaced": "2x borrowed from 4782 (new), 1x (new)"
+            },
+            {
+                "id": "3008",
+                "color": "blue",
+                "amount": 1,
+                "comment": "1x8 brick",
+                "replaced": "super old"
+            }
+        ]
+    },
+    {
+        "id": 200,
+        "missing": [
+            {
+                "id": "x197",
+                "color": "brown",
+                "amount": 1,
+                "comment": "hair"
+            }
+        ]
+    },
+    {
+        "id": 661,
+        "missing": [
+            {
+                "id": "3660",
+                "color": "black",
+                "amount": 3,
+                "comment": "2x2 slope inverted",
+                "replaced": "3x light gray (new)"
+            },
+            {
+                "id": "3034",
+                "color": "black",
+                "amount": 1,
+                "comment": "2x8 brick",
+                "replaced": "new"
+            }
+        ]
+    },
+    {
+        "id": 1550,
+        "missing": [
+            {
+                "id": "8c01",
+                "color": "light gray",
+                "amount": 1,
+                "comment": "2x2 plate + red wheel"
+            }
+        ]
+    },
+    {
+        "id": 1551,
+        "missing": [
+            {
+                "id": "-",
+                "color": "-",
+                "amount": 1,
+                "comment": "whole last wagon, all of its pieces"
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "missing": [
+            {
+                "id": "3022",
+                "color": "yellow",
+                "amount": 1,
+                "comment": "2x2 plate",
+                "replaced": "(new)"
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "missing": [
+            {
+                "id": "3028",
+                "color": "light gray",
+                "amount": 1,
+                "comment": "6x12 plate",
+                "replaced": "3029 4x12 (old)"
+            }
+        ]
+    },
+    {
+        "id": 650,
+        "missing": [
+            {
+                "id": "3023",
+                "color": "red",
+                "amount": 1,
+                "comment": "1x2 plate",
+                "replaced": "(new)"
+            }
+        ]
+    },
+    {
+        "id": 636,
+        "missing": [
+            {
+                "id": "3028",
+                "color": "red",
+                "amount": 1,
+                "comment": "6x12 plate, broken in half"
+            }
+        ]
+    },
+    {
+        "id": 335,
+        "missing": [
+            {
+                "id": "803",
+                "color": "light gray",
+                "amount": 1,
+                "comment": "wheel base 4x12, repaired, weak"
+            },
+            {
+                "id": "3004",
+                "color": "yellow",
+                "amount": 7,
+                "comment": "1x2 brick",
+                "replaced": "7x borrowed from 4782 (new)"
+            },
+            {
+                "id": "3009",
+                "color": "yellow",
+                "amount": 1,
+                "comment": "1x6 brick",
+                "replaced": "1x borrowed from 4782 (new)"
+            },
+            {
+                "id": "3022",
+                "color": "yellow",
+                "amount": 1,
+                "comment": "2x2 plate",
+                "replaced": "(new)"
+            }
+        ]
+    },
+    {
+        "id": 615,
+        "missing": [
+            {
+                "id": "3023",
+                "color": "red",
+                "amount": 2,
+                "comment": "1x2 plate",
+                "replaced": "(new)"
+            }
+        ]
+    },
+    {
+        "id": 643,
+        "missing": [
+            {
+                "id": "3037",
+                "color": "clear",
+                "amount": 1,
+                "comment": "2x4 slope"
+            },
+            {
+                "id": "3324c01",
+                "color": "red",
+                "amount": 1,
+                "comment": "2x8 hinge, broken"
+            }
+        ]
+    },
+    {
+        "id": 621,
+        "missing": [
+            {
+                "id": "967",
+                "color": "yellow",
+                "amount": 1,
+                "comment": "4x8 plate hitch pin, broken"
+            }
+        ]
+    },
+    {
+        "id": 995,
+        "missing": [
+            {
+                "id": "3065",
+                "color": "yellow translusent",
+                "amount": 1,
+                "comment": "1x2 brick"
+            },
+            {
+                "id": "3065",
+                "color": "red translusent",
+                "amount": 1,
+                "comment": "1x2 brick"
+            },
+            {
+                "id": "996bc01c41",
+                "color": "-",
+                "amount": 2,
+                "comment": "wire"
+            }
+        ]
+    },
+    {
+        "id": 994,
+        "missing": [
+            {
+                "id": "3185",
+                "color": "red",
+                "amount": 2,
+                "comment": "4x1x2 fence, 1x broken, 1x missing"
+            },
+            {
+                "id": "3186",
+                "color": "red",
+                "amount": 1,
+                "comment": "4x1x2 gate"
+            },
+            {
+                "id": "3187",
+                "color": "red",
+                "amount": 1,
+                "comment": "4x1 gate base"
+            }
+        ]
+    },
+    {
+        "id": 901,
+        "missing": [
+            {
+                "id": "650",
+                "color": "milky white",
+                "amount": 2,
+                "comment": "flexible hinge"
+            }
+        ]
+    },
+    {
+        "id": 400,
+        "missing": [
+            {
+                "id": "650",
+                "color": "milky white",
+                "amount": 1,
+                "comment": "flexible hinge"
+            },
+            {
+                "id": "3035",
+                "color": "white",
+                "amount": 1,
+                "comment": "4x8 plate, 1x missing + 1x with one edge broken"
+            }
+        ]
+    },
+    {
+        "id": "481-4",
+        "missing": [
+            {
+                "id": "3038",
+                "color": "blue",
+                "amount": 1,
+                "comment": "2x3 sloped"
+            }
+        ]
+    },
+    {
+        "id": "482-4",
+        "missing": [
+            {
+                "id": "3039",
+                "color": "blue",
+                "amount": 5,
+                "comment": "2x2 sloped"
+            },
+            {
+                "id": "3043",
+                "color": "blue",
+                "amount": 3,
+                "comment": "2x2 double sloped"
+            }
+        ]
+    },
+    {
+        "id": "480-6",
+        "missing": [
+            {
+                "id": "3039",
+                "color": "red",
+                "amount": 1,
+                "comment": "2x2 sloped"
+            },
+            {
+                "id": "3043",
+                "color": "red",
+                "amount": 1,
+                "comment": "2x2 double sloped"
+            }
+        ]
+    },
+    {
+        "id": "423-3",
+        "missing": [
+            {
+                "id": "3063",
+                "color": "white",
+                "amount": 6,
+                "comment": "2x2 rounded corner"
+            },
+            {
+                "id": "3063",
+                "color": "yellow",
+                "amount": 3,
+                "comment": "2x2 double sloped"
+            },
+            {
+                "id": "3063",
+                "color": "black",
+                "amount": 1,
+                "comment": "2x2 double sloped"
+            },
+            {
+                "id": "3062a",
+                "color": "clear",
+                "amount": 5,
+                "comment": "1x1 round"
+            }
+        ]
+    },
+    {
+        "id": "915-1",
+        "missing": [
+            {
+                "id": "3006",
+                "color": "red",
+                "amount": 1,
+                "comment": "2x10 brick"
+            },
+            {
+                "id": "3007",
+                "color": "red",
+                "amount": 1,
+                "comment": "2x8 brick"
+            }
+        ]
+    },
+    {
+        "id": "218-2",
+        "missing": [
+            {
+                "id": "3001",
+                "color": "white",
+                "amount": 4,
+                "comment": "2x4 brick"
+            },
+            {
+                "id": "3001",
+                "color": "yellow",
+                "amount": 2,
+                "comment": "2x4 brick"
+            }
+        ]
+    },
+    {
+        "id": "220-1",
+        "missing": [
+            {
+                "id": "3003",
+                "color": "yellow",
+                "amount": 4,
+                "comment": "2x2 brick"
+            }
+        ]
+    },
+    {
+        "id": "971-1",
+        "missing": [
+            {
+                "id": "3070a",
+                "color": "yellow",
+                "amount": 9,
+                "comment": "1x1 tile"
+            },
+            {
+                "id": "3070a",
+                "color": "blue",
+                "amount": 10,
+                "comment": "1x1 tile"
+            },
+            {
+                "id": "3070a",
+                "color": "white",
+                "amount": 5,
+                "comment": "1x1 tile"
+            },
+            {
+                "id": "3070a",
+                "color": "black",
+                "amount": 1,
+                "comment": "1x1 tile"
+            },
+            {
+                "id": "3070a",
+                "color": "light gray",
+                "amount": 2,
+                "comment": "1x1 tile"
+            },
+            {
+                "id": "3068a",
+                "color": "yellow",
+                "amount": 6,
+                "comment": "2x2 tile"
+            },
+            {
+                "id": "3068a",
+                "color": "blue",
+                "amount": 2,
+                "comment": "2x2 tile"
+            },
+            {
+                "id": "3068a",
+                "color": "white",
+                "amount": 1,
+                "comment": "2x2 tile"
+            },
+            {
+                "id": "3068a",
+                "color": "black",
+                "amount": 3,
+                "comment": "2x2 tile"
+            },
+            {
+                "id": "3069a",
+                "color": "yellow",
+                "amount": 3,
+                "comment": "1x2 tile"
+            },
+            {
+                "id": "3069a",
+                "color": "blue",
+                "amount": 3,
+                "comment": "1x2 tile"
+            },
+            {
+                "id": "3069a",
+                "color": "red",
+                "amount": 5,
+                "comment": "1x2 tile"
+            },
+            {
+                "id": "3069a",
+                "color": "light gray",
+                "amount": 4,
+                "comment": "1x2 tile, 1 borrowed to (8663)"
+            }
+        ]
+    },
+    {
+        "id": "988-1",
+        "missing": [
+            {
+                "id": "3005ptAb",
+                "color": "white",
+                "amount": 1,
+                "comment": "1x1 brick with A"
+            },
+            {
+                "id": "3005ptBb",
+                "color": "white",
+                "amount": 1,
+                "comment": "1x1 brick with B"
+            },
+            {
+                "id": "3005ptFb",
+                "color": "white",
+                "amount": 1,
+                "comment": "1x1 brick with F"
+            },
+            {
+                "id": "3005ptSb",
+                "color": "white",
+                "amount": 2,
+                "comment": "1x1 brick with S"
+            }
+        ]
+    },
+]
