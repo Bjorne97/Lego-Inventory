@@ -1464,33 +1464,6 @@
                 "comment": "1x complete"
             },
             {
-                "id": 801,
-                "quantity": 1,
-                "instructions": true,
-                "complete": false,
-                "bagged": true,
-                "date": "14/11/20"
-            },
-            {
-                "id": 802,
-                "quantity": 5,
-                "instructions": true,
-                "complete": true,
-                "complete amount": 1,
-                "bagged": true,
-                "date": "14/11/20",
-                "comment": "1x complete, and 1x complete part of 801"
-            },
-            {
-                "id": 995,
-                "quantity": 1,
-                "instructions": true,
-                "complete": false,
-                "bagged": false,
-                "date": "15/11/20",
-                "comment": "missing cable, extra 2x 3134 1x2 brick with cable cutout"
-            },
-            {
                 "id": "212-1",
                 "quantity": 1,
                 "instructions": true,
@@ -1545,14 +1518,13 @@
         "class": "Classic Train",
         "sets": [
             {
-                "id": 103,
+                "id": "103-1",
                 "quantity": 2,
                 "instructions": true,
                 "complete": false,
                 "complete amount": 0,
                 "bagged": false,
-                "date": "15/11/20",
-                "comment": "2x motors, 2x 6x16 plate with cutout, 1x battery box"
+                "date": "21/11/20"
             },
             {
                 "id": 125,
@@ -1630,14 +1602,14 @@
         "class": "Classic Basic",
         "sets": [
             {
-                "id": 994,
-                "quantity": 2,
+                "id": "400-4",
+                "quantity": 3,
                 "instructions": false,
                 "complete": true,
-                "complete amount": 1,
+                "complete amount": 2,
                 "bagged": true,
                 "date": "5/12/20",
-                "comment": "1x complete"
+                "comment": "2x complete, one edge broken on 4x8 plate white"
             },
             {
                 "id": "401-2",
@@ -1650,6 +1622,14 @@
                 "comment": "2x complete"
             },
             {
+                "id": "900-2",
+                "quantity": 1,
+                "instructions": false,
+                "complete": true,
+                "bagged": true,
+                "date": "5/12/20"
+            },
+            {
                 "id": "901-2",
                 "quantity": 4,
                 "instructions": false,
@@ -1660,25 +1640,17 @@
                 "comment": "2x complete, 2x missing hinge"
             },
             {
-                "id": "400-4",
-                "quantity": 3,
+                "id": "994-1",
+                "quantity": 2,
                 "instructions": false,
                 "complete": true,
-                "complete amount": 2,
+                "complete amount": 1,
                 "bagged": true,
                 "date": "5/12/20",
-                "comment": "2x complete, one edge broken on 4x8 plate white"
+                "comment": "1x complete"
             },
             {
-                "id": "900-2",
-                "quantity": 1,
-                "instructions": false,
-                "complete": true,
-                "bagged": true,
-                "date": "5/12/20"
-            },
-            {
-                "id": "700-1-1-1",
+                "id": "700-0",
                 "quantity": 1,
                 "instructions": false,
                 "complete": true,
@@ -1825,7 +1797,8 @@
                 "instructions": false,
                 "complete": false,
                 "bagged": true,
-                "date": "11/12/20"
+                "date": "11/12/20",
+                "comment": "extra brick with: 1, 4"
             },
             {
                 "id": "488-1",
@@ -1833,7 +1806,8 @@
                 "instructions": false,
                 "complete": false,
                 "bagged": true,
-                "date": "11/12/20"
+                "date": "11/12/20",
+                "comment": "extra brick with: A, E, F, N, 2xT"
             },
             {
                 "id": "437-1",
@@ -1892,6 +1866,42 @@
                 "complete": false,
                 "bagged": true,
                 "date": "11/12/20"
+            },
+            {
+                "id": "801-1",
+                "quantity": 1,
+                "instructions": true,
+                "complete": false,
+                "bagged": true,
+                "date": "14/11/20"
+            },
+            {
+                "id": "802-1",
+                "quantity": 5,
+                "instructions": true,
+                "complete": true,
+                "complete amount": 1,
+                "bagged": true,
+                "date": "14/11/20",
+                "comment": "1x complete, and 1x complete part of 801"
+            },
+            {
+                "id": "995-1",
+                "quantity": 1,
+                "instructions": true,
+                "complete": false,
+                "bagged": false,
+                "date": "15/11/20",
+                "comment": "missing cable, extra 2x 3134 1x2 brick with cable cutout"
+            },
+            {
+                "id": "902-1",
+                "quantity": 2,
+                "instructions": true,
+                "complete": true,
+                "complete amount": 1,
+                "bagged": false,
+                "date": "21/12/20"
             }
         ]
     },

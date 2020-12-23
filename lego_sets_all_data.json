@@ -2115,45 +2115,6 @@
         "price": "N/A"
       },
       {
-        "id": 801,
-        "quantity": 1,
-        "instructions": true,
-        "complete": false,
-        "bagged": true,
-        "date": "14/11/20",
-        "name": "Gear Set",
-        "year": 1970,
-        "pieces": 111,
-        "price": "N/A"
-      },
-      {
-        "id": 802,
-        "quantity": 5,
-        "instructions": true,
-        "complete": true,
-        "complete amount": 1,
-        "bagged": true,
-        "date": "14/11/20",
-        "comment": "1x complete, and 1x complete part of 801",
-        "name": "Gear Supplementary Set",
-        "year": 1970,
-        "pieces": 30,
-        "price": "N/A"
-      },
-      {
-        "id": 995,
-        "quantity": 1,
-        "instructions": true,
-        "complete": false,
-        "bagged": false,
-        "date": "15/11/20",
-        "comment": "missing cable, extra 2x 3134 1x2 brick with cable cutout",
-        "name": "Lighting Bricks with Color Filters",
-        "year": 1969,
-        "pieces": 15,
-        "price": "N/A"
-      },
-      {
         "id": "212-1",
         "quantity": 1,
         "instructions": true,
@@ -2231,15 +2192,14 @@
     "class": "Classic Train",
     "sets": [
       {
-        "id": 103,
+        "id": "103-1",
         "quantity": 2,
         "instructions": true,
         "complete": false,
         "complete amount": 0,
         "bagged": false,
-        "date": "15/11/20",
-        "comment": "2x motors, 2x 6x16 plate with cutout, 1x battery box",
-        "name": "4.5V Motor Set - with Rubber Tracks",
+        "date": "21/11/20",
+        "name": "4.5V Motor Set with Rubber Tracks",
         "year": 1969,
         "pieces": 20,
         "price": "N/A"
@@ -2352,18 +2312,18 @@
     "class": "Classic Basic",
     "sets": [
       {
-        "id": 994,
-        "quantity": 2,
+        "id": "400-4",
+        "quantity": 3,
         "instructions": false,
         "complete": true,
-        "complete amount": 1,
+        "complete amount": 2,
         "bagged": true,
         "date": "5/12/20",
-        "comment": "1x complete",
-        "name": "fences with garden gates",
-        "year": 1969,
-        "pieces": 19,
-        "price": "$0.50"
+        "comment": "2x complete, one edge broken on 4x8 plate white",
+        "name": "Small Wheels with Axles (System)",
+        "year": 1963,
+        "pieces": 12,
+        "price": "N/A"
       },
       {
         "id": "401-2",
@@ -2377,6 +2337,18 @@
         "name": "Large Wheels with Axles (The Building Toy)",
         "year": 1966,
         "pieces": 7,
+        "price": "N/A"
+      },
+      {
+        "id": "900-2",
+        "quantity": 1,
+        "instructions": false,
+        "complete": true,
+        "bagged": true,
+        "date": "5/12/20",
+        "name": "4 Small Wheels with Accessories",
+        "year": 1969,
+        "pieces": 12,
         "price": "N/A"
       },
       {
@@ -2394,33 +2366,21 @@
         "price": "N/A"
       },
       {
-        "id": "400-4",
-        "quantity": 3,
+        "id": "994-1",
+        "quantity": 2,
         "instructions": false,
         "complete": true,
-        "complete amount": 2,
+        "complete amount": 1,
         "bagged": true,
         "date": "5/12/20",
-        "comment": "2x complete, one edge broken on 4x8 plate white",
-        "name": "Small Wheels with Axles (System)",
-        "year": 1963,
-        "pieces": 12,
-        "price": "N/A"
-      },
-      {
-        "id": "900-2",
-        "quantity": 1,
-        "instructions": false,
-        "complete": true,
-        "bagged": true,
-        "date": "5/12/20",
-        "name": "4 Small Wheels with Accessories",
+        "comment": "1x complete",
+        "name": "Fences with garden gates",
         "year": 1969,
-        "pieces": 12,
+        "pieces": 19,
         "price": "N/A"
       },
       {
-        "id": "700-1-1-1",
+        "id": "700-0",
         "quantity": 1,
         "instructions": false,
         "complete": true,
@@ -2628,6 +2588,7 @@
         "complete": false,
         "bagged": true,
         "date": "11/12/20",
+        "comment": "extra brick with: 1, 4",
         "name": "Number Bricks",
         "year": 1969,
         "pieces": 52,
@@ -2640,6 +2601,7 @@
         "complete": false,
         "bagged": true,
         "date": "11/12/20",
+        "comment": "extra brick with: A, E, F, N, 2xT",
         "name": "1 x 1 Bricks with Letters (System)",
         "year": 1966,
         "pieces": 44,
@@ -2729,6 +2691,58 @@
         "name": "Basic Building Set",
         "year": 1968,
         "pieces": 256,
+        "price": "N/A"
+      },
+      {
+        "id": "801-1",
+        "quantity": 1,
+        "instructions": true,
+        "complete": false,
+        "bagged": true,
+        "date": "14/11/20",
+        "name": "Gear Set",
+        "year": 1970,
+        "pieces": 111,
+        "price": "N/A"
+      },
+      {
+        "id": "802-1",
+        "quantity": 5,
+        "instructions": true,
+        "complete": true,
+        "complete amount": 1,
+        "bagged": true,
+        "date": "14/11/20",
+        "comment": "1x complete, and 1x complete part of 801",
+        "name": "Gear Supplementary Set",
+        "year": 1970,
+        "pieces": 30,
+        "price": "N/A"
+      },
+      {
+        "id": "995-1",
+        "quantity": 1,
+        "instructions": true,
+        "complete": false,
+        "bagged": false,
+        "date": "15/11/20",
+        "comment": "missing cable, extra 2x 3134 1x2 brick with cable cutout",
+        "name": "Lighting Bricks with Color Filters",
+        "year": 1969,
+        "pieces": 15,
+        "price": "N/A"
+      },
+      {
+        "id": "902-1",
+        "quantity": 2,
+        "instructions": true,
+        "complete": true,
+        "complete amount": 1,
+        "bagged": false,
+        "date": "21/12/20",
+        "name": "5 Turntables",
+        "year": 1969,
+        "pieces": 5,
         "price": "N/A"
       }
     ]

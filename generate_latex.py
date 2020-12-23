@@ -158,6 +158,13 @@ def generate_image_text(data):
 
 
 def fix_data(data):
+
+    def sort_func(lego_class):
+        value = -len(lego_class["sets"])
+        if lego_class["class"].startswith("Classic"):
+            value += 1000
+        return value
+
     for lego_class in data:
         for ls in lego_class["sets"]:
             name = ls["name"]
@@ -165,7 +172,7 @@ def fix_data(data):
             ls["name"] = new_name
 
 
-    sorted_data = sorted(data, key=lambda lego_class: -len(lego_class["sets"]))
+    sorted_data = sorted(data, key=sort_func)
     return sorted_data
 
 
