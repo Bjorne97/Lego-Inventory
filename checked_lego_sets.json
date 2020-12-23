@@ -1543,6 +1543,23 @@
                 "date": "15/11/20"
             },
             {
+                "id": "343-1",
+                "quantity": 1,
+                "instructions": true,
+                "complete": true,
+                "bagged": false,
+                "date": "15/11/20"
+            },
+            {
+                "id": "903-1",
+                "quantity": 4,
+                "instructions": true,
+                "complete": true,
+                "complete amount": 1,
+                "bagged": true,
+                "date": "23/12/20"
+            },
+            {
                 "id": "150-1",
                 "quantity": 4,
                 "instructions": true,
@@ -1585,14 +1602,6 @@
                 "instructions": true,
                 "complete": true,
                 "complete amount": 2,
-                "bagged": false,
-                "date": "15/11/20"
-            },
-            {
-                "id": "343-1",
-                "quantity": 1,
-                "instructions": true,
-                "complete": true,
                 "bagged": false,
                 "date": "15/11/20"
             }
@@ -1760,12 +1769,13 @@
             },
             {
                 "id": "224-3",
-                "quantity": 1,
+                "quantity": 2,
                 "instructions": false,
                 "complete": true,
+                "complete amount": 1,
                 "bagged": true,
                 "date": "5/12/20",
-                "comment": "red, 19 pieces (EU)"
+                "comment": "red 19 pieces (EU), clear 12 pieces, extra: blue 5x, white 3x"
             },
             {
                 "id": "423-3",

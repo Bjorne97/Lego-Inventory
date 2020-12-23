@@ -12,7 +12,8 @@
         "name": "Tricycle",
         "year": 1999,
         "pieces": 30,
-        "price": "Free promotional"
+        "price": "Free promotional",
+        "weight": 0
       },
       {
         "id": 1258,
@@ -24,7 +25,8 @@
         "name": "Buggy",
         "year": 1999,
         "pieces": 29,
-        "price": "Free promotional"
+        "price": "Free promotional",
+        "weight": 0
       },
       {
         "id": 1259,
@@ -36,7 +38,8 @@
         "name": "Motorbike",
         "year": 1999,
         "pieces": 28,
-        "price": "Free promotional"
+        "price": "Free promotional",
+        "weight": 32
       },
       {
         "id": 1260,
@@ -48,7 +51,8 @@
         "name": "Car",
         "year": 1999,
         "pieces": 26,
-        "price": "Free promotional"
+        "price": "Free promotional",
+        "weight": 0
       },
       {
         "id": 8203,
@@ -60,7 +64,8 @@
         "name": "Rover Discovery",
         "year": 1998,
         "pieces": 37,
-        "price": "$4.99"
+        "price": "$4.99",
+        "weight": 60
       },
       {
         "id": 8204,
@@ -72,7 +77,8 @@
         "name": "Sky Flyer 1",
         "year": 1998,
         "pieces": 41,
-        "price": "$4.99"
+        "price": "$4.99",
+        "weight": 48
       },
       {
         "id": 8281,
@@ -84,7 +90,8 @@
         "name": "Mini Tractor",
         "year": 2006,
         "pieces": 121,
-        "price": "$9.99"
+        "price": "$9.99",
+        "weight": 195
       },
       {
         "id": 8047,
@@ -96,7 +103,8 @@
         "name": "Compact Excavator",
         "year": 2010,
         "pieces": 252,
-        "price": "$24.99"
+        "price": "$24.99",
+        "weight": 446
       },
       {
         "id": 8271,
@@ -108,7 +116,8 @@
         "name": "Wheel Loader",
         "year": 2007,
         "pieces": 200,
-        "price": "$19.99"
+        "price": "$19.99",
+        "weight": 396
       },
       {
         "id": 8283,
@@ -120,7 +129,8 @@
         "name": "Telehandler (Front End Loader)",
         "year": 2006,
         "pieces": 323,
-        "price": "$29.99"
+        "price": "$29.99",
+        "weight": 657
       },
       {
         "id": 8434,
@@ -132,7 +142,8 @@
         "name": "Aircraft",
         "year": 2004,
         "pieces": 445,
-        "price": "$34.99"
+        "price": "$34.99",
+        "weight": 775
       },
       {
         "id": 8263,
@@ -144,7 +155,8 @@
         "name": "Snow Groomer",
         "year": 2009,
         "pieces": 590,
-        "price": "$49.99"
+        "price": "$49.99",
+        "weight": 966
       },
       {
         "id": 8288,
@@ -156,7 +168,8 @@
         "name": "Crawler Crane",
         "year": 2006,
         "pieces": 800,
-        "price": "$49.99"
+        "price": "$49.99",
+        "weight": 1165
       },
       {
         "id": 8043,
@@ -168,7 +181,8 @@
         "name": "Motorized Excavator",
         "year": 2010,
         "pieces": 1123,
-        "price": "$199.99"
+        "price": "$199.99",
+        "weight": 2580
       },
       {
         "id": 8287,
@@ -180,7 +194,8 @@
         "name": "Motor Set",
         "year": 2006,
         "pieces": 93,
-        "price": "$29.99"
+        "price": "$29.99",
+        "weight": 293
       }
     ]
   },
@@ -197,7 +212,8 @@
         "name": "Robobots",
         "year": 2003,
         "pieces": 324,
-        "price": "$19.99"
+        "price": "$19.99",
+        "weight": 604
       },
       {
         "id": 4101,
@@ -209,7 +225,8 @@
         "name": "Wild Collection",
         "year": 2003,
         "pieces": 487,
-        "price": "$29.99"
+        "price": "$29.99",
+        "weight": 826
       },
       {
         "id": 4506,
@@ -221,7 +238,8 @@
         "name": "Deep Sea Predators",
         "year": 2004,
         "pieces": 352,
-        "price": "$19.99"
+        "price": "$19.99",
+        "weight": 594
       },
       {
         "id": 4507,
@@ -233,7 +251,8 @@
         "name": "Prehistoric Creatures",
         "year": 2004,
         "pieces": 719,
-        "price": "$29.99"
+        "price": "$29.99",
+        "weight": 1050
       },
       {
         "id": 4882,
@@ -245,7 +264,8 @@
         "name": "Speed Wings",
         "year": 2005,
         "pieces": 162,
-        "price": "$9.99"
+        "price": "$9.99",
+        "weight": 310
       },
       {
         "id": 4888,
@@ -257,7 +277,8 @@
         "name": "Ocean Odyssey",
         "year": 2005,
         "pieces": 623,
-        "price": "$39.99"
+        "price": "$39.99",
+        "weight": 1208
       },
       {
         "id": 7219,
@@ -271,7 +292,8 @@
         "name": "Dinosaur polybag",
         "year": 2004,
         "pieces": 34,
-        "price": "Free promotional"
+        "price": "Free promotional",
+        "weight": 30
       }
     ]
   },
@@ -288,7 +310,8 @@
         "name": "Fire Blaster",
         "year": 2010,
         "pieces": 61,
-        "price": "$9.99"
+        "price": "$9.99",
+        "weight": 143
       },
       {
         "id": 8957,
@@ -300,7 +323,8 @@
         "name": "Mine Mech",
         "year": 2009,
         "pieces": 62,
-        "price": "$7.99"
+        "price": "$7.99",
+        "weight": 127
       },
       {
         "id": 8958,
@@ -312,7 +336,8 @@
         "name": "Granite Grinder",
         "year": 2009,
         "pieces": 89,
-        "price": "$9.99"
+        "price": "$9.99",
+        "weight": 193
       },
       {
         "id": 8960,
@@ -324,7 +349,8 @@
         "name": "Thunder Driller",
         "year": 2009,
         "pieces": 225,
-        "price": "$29.99"
+        "price": "$29.99",
+        "weight": 660
       },
       {
         "id": 8964,
@@ -336,7 +362,8 @@
         "name": "Titanium Command Rig",
         "year": 2009,
         "pieces": 684,
-        "price": "$99.99"
+        "price": "$99.99",
+        "weight": 1810
       }
     ]
   },
@@ -354,7 +381,8 @@
         "name": "Motion Madness",
         "year": 2003,
         "pieces": 243,
-        "price": "$14.99"
+        "price": "$14.99",
+        "weight": 490
       },
       {
         "id": 4093,
@@ -366,7 +394,8 @@
         "name": "Wild Windup",
         "year": 2003,
         "pieces": 319,
-        "price": "$24.99"
+        "price": "$24.99",
+        "weight": 685
       },
       {
         "id": 4094,
@@ -378,7 +407,8 @@
         "name": "Motor Movers",
         "year": 2003,
         "pieces": 254,
-        "price": "$39.99"
+        "price": "$39.99",
+        "weight": 836
       }
     ]
   },
@@ -395,7 +425,8 @@
         "name": "Fire Vulture",
         "year": 2006,
         "pieces": 170,
-        "price": "$14.99"
+        "price": "$14.99",
+        "weight": 351
       }
     ]
   },
@@ -414,7 +445,8 @@
         "name": "Police Motorcycle - Black/Green Sticker Version",
         "year": 2005,
         "pieces": 24,
-        "price": "$3.99"
+        "price": "$3.99",
+        "weight": 50
       },
       {
         "id": 7236,
@@ -426,7 +458,8 @@
         "name": "Police Car - Black/Green Sticker Version",
         "year": 2005,
         "pieces": 56,
-        "price": "$5.99"
+        "price": "$5.99",
+        "weight": 93
       },
       {
         "id": 7245,
@@ -438,7 +471,8 @@
         "name": "Prisoner Transport - Black/Green Sticker Version",
         "year": 2005,
         "pieces": 92,
-        "price": "$12.99"
+        "price": "$12.99",
+        "weight": 193
       },
       {
         "id": 7743,
@@ -450,7 +484,8 @@
         "name": "Police Command Center",
         "year": 2008,
         "pieces": 507,
-        "price": "$44.99"
+        "price": "$44.99",
+        "weight": 1060
       },
       {
         "id": 7241,
@@ -464,7 +499,8 @@
         "name": "Fire Car",
         "year": 2005,
         "pieces": 43,
-        "price": "$3.99"
+        "price": "$3.99",
+        "weight": 65
       },
       {
         "id": 7942,
@@ -476,7 +512,8 @@
         "name": "Off Road Fire Rescue",
         "year": 2007,
         "pieces": 127,
-        "price": "$9.99"
+        "price": "$9.99",
+        "weight": 175
       },
       {
         "id": 7239,
@@ -488,7 +525,8 @@
         "name": "Fire Truck",
         "year": 2004,
         "pieces": 208,
-        "price": "$22.99"
+        "price": "$22.99",
+        "weight": 445
       },
       {
         "id": 7046,
@@ -500,7 +538,8 @@
         "name": "Fire Command Craft",
         "year": 2004,
         "pieces": 257,
-        "price": "$29.99"
+        "price": "$29.99",
+        "weight": 629
       },
       {
         "id": 7246,
@@ -513,7 +552,8 @@
         "name": "Mini Digger",
         "year": 2005,
         "pieces": 33,
-        "price": "$3.99"
+        "price": "$3.99",
+        "weight": 65
       },
       {
         "id": 7248,
@@ -525,7 +565,8 @@
         "name": "Digger",
         "year": 2005,
         "pieces": 124,
-        "price": "$19.99"
+        "price": "$19.99",
+        "weight": 345
       },
       {
         "id": 7902,
@@ -537,7 +578,8 @@
         "name": "Doctor's Car",
         "year": 2006,
         "pieces": 62,
-        "price": "$5.99"
+        "price": "$5.99",
+        "weight": 98
       },
       {
         "id": 7726,
@@ -549,7 +591,8 @@
         "name": "Coast Guard Truck with Speed Boat",
         "year": 2008,
         "pieces": 352,
-        "price": "$39.99"
+        "price": "$39.99",
+        "weight": 750
       },
       {
         "id": 4899,
@@ -561,7 +604,8 @@
         "name": "Tractor polybag",
         "year": 2009,
         "pieces": 24,
-        "price": "Free promotional"
+        "price": "Free promotional",
+        "weight": 25
       },
       {
         "id": 7042,
@@ -573,7 +617,8 @@
         "name": "Dune Patrol",
         "year": 2004,
         "pieces": 31,
-        "price": "$3.99"
+        "price": "$3.99",
+        "weight": 54
       }
     ]
   },
@@ -590,7 +635,8 @@
         "name": "Mini Construction",
         "year": 2007,
         "pieces": 68,
-        "price": "$4.99"
+        "price": "$4.99",
+        "weight": 111
       },
       {
         "id": 4918,
@@ -602,7 +648,8 @@
         "name": "Mini Flyers",
         "year": 2007,
         "pieces": 76,
-        "price": "$4.99"
+        "price": "$4.99",
+        "weight": 121
       },
       {
         "id": 4939,
@@ -614,7 +661,8 @@
         "name": "Cool Cars",
         "year": 2007,
         "pieces": 206,
-        "price": "$12.99"
+        "price": "$12.99",
+        "weight": 310
       },
       {
         "id": 4891,
@@ -627,7 +675,8 @@
         "name": "Highway Haulers",
         "year": 2006,
         "pieces": 209,
-        "price": "$9.99"
+        "price": "$9.99",
+        "weight": 313
       }
     ]
   },
@@ -644,7 +693,8 @@
         "name": "Gear",
         "year": 2001,
         "pieces": 8,
-        "price": "$2.99"
+        "price": "$2.99",
+        "weight": 91
       },
       {
         "id": 4582,
@@ -656,7 +706,8 @@
         "name": "Red Bullet",
         "year": 2002,
         "pieces": 29,
-        "price": "$3.99"
+        "price": "$3.99",
+        "weight": 60
       },
       {
         "id": 4583,
@@ -668,7 +719,8 @@
         "name": "Maverick Storm",
         "year": 2002,
         "pieces": 31,
-        "price": "$3.99"
+        "price": "$3.99",
+        "weight": 62
       },
       {
         "id": 4594,
@@ -680,7 +732,8 @@
         "name": "Maverick Sprinter \\& Hot Arrow",
         "year": 2002,
         "pieces": 66,
-        "price": "$6.99"
+        "price": "$6.99",
+        "weight": 115
       },
       {
         "id": 8643,
@@ -693,7 +746,8 @@
         "name": "Power Cruiser",
         "year": 2005,
         "pieces": 46,
-        "price": "$3.99"
+        "price": "$3.99",
+        "weight": 90
       },
       {
         "id": 8656,
@@ -705,7 +759,8 @@
         "name": "F6 Truck",
         "year": 2005,
         "pieces": 47,
-        "price": "$3.99"
+        "price": "$3.99",
+        "weight": 90
       },
       {
         "id": 8657,
@@ -717,7 +772,8 @@
         "name": "ATR 4",
         "year": 2005,
         "pieces": 39,
-        "price": "$3.99"
+        "price": "$3.99",
+        "weight": 92
       },
       {
         "id": 8661,
@@ -729,7 +785,8 @@
         "name": "Carbon Star",
         "year": 2006,
         "pieces": 44,
-        "price": "$3.99"
+        "price": "$3.99",
+        "weight": 89
       },
       {
         "id": 8662,
@@ -741,7 +798,8 @@
         "name": "Blue Renegade",
         "year": 2006,
         "pieces": 49,
-        "price": "$3.99"
+        "price": "$3.99",
+        "weight": 93
       },
       {
         "id": 8663,
@@ -753,7 +811,8 @@
         "name": "Fat Trax",
         "year": 2006,
         "pieces": 42,
-        "price": "$3.99"
+        "price": "$3.99",
+        "weight": 99
       },
       {
         "id": 8664,
@@ -765,7 +824,8 @@
         "name": "Road Hero",
         "year": 2006,
         "pieces": 55,
-        "price": "$3.99"
+        "price": "$3.99",
+        "weight": 99
       },
       {
         "id": 8665,
@@ -777,7 +837,8 @@
         "name": "Highway Enforcer",
         "year": 2006,
         "pieces": 53,
-        "price": "$3.99"
+        "price": "$3.99",
+        "weight": 106
       },
       {
         "id": 8666,
@@ -789,7 +850,8 @@
         "name": "Tuner X",
         "year": 2006,
         "pieces": 61,
-        "price": "$3.99"
+        "price": "$3.99",
+        "weight": 103
       },
       {
         "id": 8151,
@@ -801,7 +863,8 @@
         "name": "Adrift Sport",
         "year": 2008,
         "pieces": 52,
-        "price": "$4.99"
+        "price": "$4.99",
+        "weight": 94
       },
       {
         "id": 7802,
@@ -813,7 +876,8 @@
         "name": "Le Mans Racer polybag",
         "year": 2009,
         "pieces": 29,
-        "price": "$2.99"
+        "price": "$2.99",
+        "weight": 24
       },
       {
         "id": 8124,
@@ -825,7 +889,8 @@
         "name": "Ice Rally",
         "year": 2009,
         "pieces": 172,
-        "price": "$14.99"
+        "price": "$14.99",
+        "weight": 295
       },
       {
         "id": 8383,
@@ -837,7 +902,8 @@
         "name": "Nitro Terminator",
         "year": 2003,
         "pieces": 70,
-        "price": "$9.99"
+        "price": "$9.99",
+        "weight": 214
       },
       {
         "id": 8385,
@@ -849,7 +915,8 @@
         "name": "Exo Stealth",
         "year": 2003,
         "pieces": 81,
-        "price": "$9.99"
+        "price": "$9.99",
+        "weight": 225
       },
       {
         "id": 8357,
@@ -861,7 +928,8 @@
         "name": "Zonic Strike",
         "year": 2003,
         "pieces": 102,
-        "price": "$14.99"
+        "price": "$14.99",
+        "weight": 313
       },
       {
         "id": 8647,
@@ -874,7 +942,8 @@
         "name": "Night Racer",
         "year": 2005,
         "pieces": 76,
-        "price": "$9.99"
+        "price": "$9.99",
+        "weight": 168
       },
       {
         "id": 8670,
@@ -886,7 +955,8 @@
         "name": "Jump Master",
         "year": 2006,
         "pieces": 105,
-        "price": "$9.99"
+        "price": "$9.99",
+        "weight": 222
       },
       {
         "id": 8669,
@@ -898,7 +968,8 @@
         "name": "Fire Spinner 360",
         "year": 2006,
         "pieces": 113,
-        "price": "$9.99"
+        "price": "$9.99",
+        "weight": 203
       },
       {
         "id": 8139,
@@ -910,7 +981,8 @@
         "name": "Night Blazer",
         "year": 2007,
         "pieces": 66,
-        "price": "$9.99"
+        "price": "$9.99",
+        "weight": 219
       },
       {
         "id": 8491,
@@ -922,7 +994,8 @@
         "name": "Ram Rod",
         "year": 2008,
         "pieces": 72,
-        "price": "$9.99"
+        "price": "$9.99",
+        "weight": 200
       },
       {
         "id": 8162,
@@ -934,7 +1007,8 @@
         "name": "Race Rig",
         "year": 2009,
         "pieces": 104,
-        "price": "$12.99"
+        "price": "$12.99",
+        "weight": 218
       }
     ]
   },
@@ -951,7 +1025,8 @@
         "name": "Mission 1: Jetpack Pursuit",
         "year": 2008,
         "pieces": 78,
-        "price": "$9.99"
+        "price": "$9.99",
+        "weight": 156
       }
     ]
   },
@@ -968,7 +1043,8 @@
         "name": "Crossbow Attack",
         "year": 2007,
         "pieces": 40,
-        "price": "$5.99"
+        "price": "$5.99",
+        "weight": 85
       },
       {
         "id": 7040,
@@ -980,7 +1056,8 @@
         "name": "Dwarves' Mine Defender",
         "year": 2008,
         "pieces": 73,
-        "price": "$9.99"
+        "price": "$9.99",
+        "weight": 176
       },
       {
         "id": 5998,
@@ -992,7 +1069,8 @@
         "name": "Vladek polybag",
         "year": 2005,
         "pieces": 2,
-        "price": "$0.99"
+        "price": "$0.99",
+        "weight": 8
       },
       {
         "id": 6026,
@@ -1004,7 +1082,8 @@
         "name": "King Leo",
         "year": 2000,
         "pieces": 13,
-        "price": "$4.99"
+        "price": "$4.99",
+        "weight": 65
       },
       {
         "id": 7955,
@@ -1016,7 +1095,8 @@
         "name": "Wizard",
         "year": 2010,
         "pieces": 14,
-        "price": "$3.99"
+        "price": "$3.99",
+        "weight": 32
       },
       {
         "id": 8771,
@@ -1028,7 +1108,8 @@
         "name": "Jayko (European version without Cards)",
         "year": 2004,
         "pieces": 45,
-        "price": "$7.99"
+        "price": "$7.99",
+        "weight": 210
       },
       {
         "id": 4944,
@@ -1040,7 +1121,8 @@
         "name": "Plastic Figure - Jayko (Nestle Promotional) polybag",
         "year": 2005,
         "pieces": 3,
-        "price": "Free promotional"
+        "price": "Free promotional",
+        "weight": 12
       },
       {
         "id": 4946,
@@ -1052,7 +1134,8 @@
         "name": "Plastic Figure - Danju (Nestle Promotional) polybag",
         "year": 2005,
         "pieces": 3,
-        "price": "Free promotional"
+        "price": "Free promotional",
+        "weight": 0
       }
     ]
   },
@@ -1069,7 +1152,8 @@
         "name": "Helicopter (Kabaya Version)",
         "year": 2000,
         "pieces": 10,
-        "price": "Free promotional"
+        "price": "Free promotional",
+        "weight": 0
       },
       {
         "id": 2707,
@@ -1083,7 +1167,8 @@
         "name": "Glider polybag",
         "year": 2000,
         "pieces": 9,
-        "price": "Free promotional"
+        "price": "Free promotional",
+        "weight": 0
       },
       {
         "id": 2722,
@@ -1096,7 +1181,8 @@
         "name": "Ship polybag",
         "year": 2000,
         "pieces": 12,
-        "price": "Free promotional"
+        "price": "Free promotional",
+        "weight": 0
       },
       {
         "id": 4018,
@@ -1108,7 +1194,8 @@
         "name": "Ship",
         "year": 2001,
         "pieces": 12,
-        "price": "$1.99"
+        "price": "$1.99",
+        "weight": 48
       },
       {
         "id": 3233,
@@ -1121,7 +1208,8 @@
         "name": "Fantasy Bird polybag",
         "year": 1998,
         "pieces": 24,
-        "price": "Free promotional"
+        "price": "Free promotional",
+        "weight": 0
       },
       {
         "id": 3234,
@@ -1133,7 +1221,8 @@
         "name": "Fantasy Boat polybag",
         "year": 1998,
         "pieces": 24,
-        "price": "Free promotional"
+        "price": "Free promotional",
+        "weight": 37
       },
       {
         "id": 2846,
@@ -1145,7 +1234,8 @@
         "name": "Indian Kayak",
         "year": 1997,
         "pieces": 12,
-        "price": "Free promotional"
+        "price": "Free promotional",
+        "weight": 25
       },
       {
         "id": 2849,
@@ -1157,7 +1247,8 @@
         "name": "Gyrocopter",
         "year": 1997,
         "pieces": 15,
-        "price": "$2.49"
+        "price": "$2.49",
+        "weight": 31
       },
       {
         "id": 2871,
@@ -1169,7 +1260,8 @@
         "name": "Diver and Shark",
         "year": 1997,
         "pieces": 9,
-        "price": "$1.99"
+        "price": "$1.99",
+        "weight": 32
       },
       {
         "id": 2872,
@@ -1181,7 +1273,8 @@
         "name": "Witch and Fireplace",
         "year": 1997,
         "pieces": 15,
-        "price": "$2.99"
+        "price": "$2.99",
+        "weight": 35
       },
       {
         "id": 2882,
@@ -1193,7 +1286,8 @@
         "name": "Speedboat",
         "year": 1997,
         "pieces": 17,
-        "price": "$1.99"
+        "price": "$1.99",
+        "weight": 35
       },
       {
         "id": 6415,
@@ -1206,7 +1300,8 @@
         "name": "Res-Q Jet-Ski",
         "year": 1998,
         "pieces": 12,
-        "price": "$1.99"
+        "price": "$1.99",
+        "weight": 35
       },
       {
         "id": 1250,
@@ -1218,7 +1313,8 @@
         "name": "Dragster",
         "year": 1999,
         "pieces": 20,
-        "price": "$1.70"
+        "price": "$1.70",
+        "weight": 44
       },
       {
         "id": 6423,
@@ -1232,7 +1328,8 @@
         "name": "Mini Tow Truck",
         "year": 2000,
         "pieces": 31,
-        "price": "$4.99"
+        "price": "$4.99",
+        "weight": 79
       }
     ]
   },
@@ -1249,7 +1346,8 @@
         "name": "Macku",
         "year": 2003,
         "pieces": 25,
-        "price": "$3.99"
+        "price": "$3.99",
+        "weight": 59
       },
       {
         "id": 8608,
@@ -1261,7 +1359,8 @@
         "name": "Vhisola",
         "year": 2004,
         "pieces": 27,
-        "price": "$3.99"
+        "price": "$3.99",
+        "weight": 80
       },
       {
         "id": 8725,
@@ -1273,7 +1372,8 @@
         "name": "Balta",
         "year": 2006,
         "pieces": 22,
-        "price": "$3.99"
+        "price": "$3.99",
+        "weight": 61
       },
       {
         "id": 8534,
@@ -1285,7 +1385,8 @@
         "name": "Tahu",
         "year": 2001,
         "pieces": 33,
-        "price": "$6.99"
+        "price": "$6.99",
+        "weight": 155
       },
       {
         "id": 8590,
@@ -1297,7 +1398,8 @@
         "name": "Guurahk",
         "year": 2003,
         "pieces": 45,
-        "price": "$8.99"
+        "price": "$8.99",
+        "weight": 210
       },
       {
         "id": 8615,
@@ -1309,7 +1411,8 @@
         "name": "Vahki Bordakh",
         "year": 2004,
         "pieces": 32,
-        "price": "$8.99"
+        "price": "$8.99",
+        "weight": 203
       },
       {
         "id": 8617,
@@ -1321,7 +1424,8 @@
         "name": "Vahki Zadakh",
         "year": 2004,
         "pieces": 32,
-        "price": "$8.99"
+        "price": "$8.99",
+        "weight": 205
       },
       {
         "id": 8619,
@@ -1333,7 +1437,8 @@
         "name": "Vahki Keerakh",
         "year": 2004,
         "pieces": 32,
-        "price": "$8.99"
+        "price": "$8.99",
+        "weight": 205
       },
       {
         "id": 8900,
@@ -1345,7 +1450,8 @@
         "name": "Reidak",
         "year": 2006,
         "pieces": 41,
-        "price": "$8.99"
+        "price": "$8.99",
+        "weight": 225
       },
       {
         "id": 8902,
@@ -1357,7 +1463,8 @@
         "name": "Vezok",
         "year": 2006,
         "pieces": 41,
-        "price": "$8.99"
+        "price": "$8.99",
+        "weight": 225
       },
       {
         "id": 8904,
@@ -1369,7 +1476,8 @@
         "name": "Avak",
         "year": 2006,
         "pieces": 41,
-        "price": "$8.99"
+        "price": "$8.99",
+        "weight": 225
       },
       {
         "id": 8727,
@@ -1381,7 +1489,8 @@
         "name": "Inika Toa Jaller",
         "year": 2006,
         "pieces": 46,
-        "price": "$9.99"
+        "price": "$9.99",
+        "weight": 294
       },
       {
         "id": 8732,
@@ -1393,7 +1502,8 @@
         "name": "Inika Toa Matoro",
         "year": 2006,
         "pieces": 46,
-        "price": "$9.99"
+        "price": "$9.99",
+        "weight": 301
       },
       {
         "id": 8763,
@@ -1405,7 +1515,8 @@
         "name": "Toa Norik",
         "year": 2005,
         "pieces": 55,
-        "price": "$6.99"
+        "price": "$6.99",
+        "weight": 213
       }
     ]
   },
@@ -1422,7 +1533,8 @@
         "name": "Viking Warrior challenges the Fenris Wolf",
         "year": 2005,
         "pieces": 69,
-        "price": "$4.99"
+        "price": "$4.99",
+        "weight": 72
       }
     ]
   },
@@ -1439,7 +1551,8 @@
         "name": "Republic Attack Gunship",
         "year": 2008,
         "pieces": 1004,
-        "price": "$119.99"
+        "price": "$119.99",
+        "weight": 2000
       }
     ]
   },
@@ -1456,7 +1569,8 @@
         "name": "Alpha Team Command Sub",
         "year": 2002,
         "pieces": 177,
-        "price": "$29.99"
+        "price": "$29.99",
+        "weight": 510
       }
     ]
   },
@@ -1473,7 +1587,8 @@
         "name": "Main Street (Reissue)",
         "year": 2003,
         "pieces": 592,
-        "price": "$65.00"
+        "price": "$65.00",
+        "weight": 1240
       }
     ]
   },
@@ -1490,7 +1605,8 @@
         "name": "Excavation Searcher",
         "year": 2001,
         "pieces": 451,
-        "price": "$49.99"
+        "price": "$49.99",
+        "weight": 856
       }
     ]
   },
@@ -1507,7 +1623,8 @@
         "name": "Hogwarts Castle (2nd edition)",
         "year": 2004,
         "pieces": 897,
-        "price": "$89.99"
+        "price": "$89.99",
+        "weight": 2065
       }
     ]
   },
@@ -1524,7 +1641,8 @@
         "name": "Baby Ankylosaurus",
         "year": 2001,
         "pieces": 37,
-        "price": "$2.99"
+        "price": "$2.99",
+        "weight": 59
       },
       {
         "id": 7001,
@@ -1536,7 +1654,8 @@
         "name": "Baby Iguanodon",
         "year": 2001,
         "pieces": 23,
-        "price": "$2.99"
+        "price": "$2.99",
+        "weight": 51
       },
       {
         "id": 7002,
@@ -1548,7 +1667,8 @@
         "name": "Baby Brachiosaurus",
         "year": 2001,
         "pieces": 31,
-        "price": "$2.99"
+        "price": "$2.99",
+        "weight": 62
       },
       {
         "id": 7003,
@@ -1560,7 +1680,8 @@
         "name": "Baby Dimetrodon",
         "year": 2001,
         "pieces": 20,
-        "price": "$2.99"
+        "price": "$2.99",
+        "weight": 56
       },
       {
         "id": 6719,
@@ -1572,7 +1693,8 @@
         "name": "Brachiosaurus",
         "year": 2001,
         "pieces": 25,
-        "price": "$9.99"
+        "price": "$9.99",
+        "weight": 193
       },
       {
         "id": 6720,
@@ -1584,7 +1706,8 @@
         "name": "Tyrannosaurus Rex",
         "year": 2001,
         "pieces": 23,
-        "price": "$9.99"
+        "price": "$9.99",
+        "weight": 178
       },
       {
         "id": 6721,
@@ -1596,7 +1719,8 @@
         "name": "Mosasaurus",
         "year": 2001,
         "pieces": 26,
-        "price": "$9.99"
+        "price": "$9.99",
+        "weight": 188
       },
       {
         "id": 6722,
@@ -1608,7 +1732,8 @@
         "name": "Styracosaurus",
         "year": 2001,
         "pieces": 19,
-        "price": "$9.99"
+        "price": "$9.99",
+        "weight": 184
       }
     ]
   },
@@ -1625,7 +1750,8 @@
         "name": "Copter Transport",
         "year": 2001,
         "pieces": 63,
-        "price": "$19.99"
+        "price": "$19.99",
+        "weight": 433
       },
       {
         "id": 4614,
@@ -1637,7 +1763,8 @@
         "name": "Ultralight Flyer",
         "year": 2002,
         "pieces": 11,
-        "price": "$3.99"
+        "price": "$3.99",
+        "weight": 46
       }
     ]
   },
@@ -1654,7 +1781,8 @@
         "name": "Advent Calendar 2000",
         "year": 2000,
         "pieces": 240,
-        "price": "$19.99"
+        "price": "$19.99",
+        "weight": 609
       },
       {
         "id": 7907,
@@ -1666,7 +1794,8 @@
         "name": "Advent Calendar 2007, City",
         "year": 2007,
         "pieces": 232,
-        "price": "$24.99"
+        "price": "$24.99",
+        "weight": 400
       },
       {
         "id": 2824,
@@ -1678,7 +1807,8 @@
         "name": "Advent Calendar 2010, City",
         "year": 2010,
         "pieces": 271,
-        "price": "$34.99"
+        "price": "$34.99",
+        "weight": 436
       }
     ]
   },
@@ -1695,7 +1825,8 @@
         "name": "Red Bus",
         "year": 2000,
         "pieces": 108,
-        "price": "$19.99"
+        "price": "$19.99",
+        "weight": 285
       },
       {
         "id": 3429,
@@ -1707,7 +1838,8 @@
         "name": "Ultimate Defense",
         "year": 2003,
         "pieces": 76,
-        "price": "$14.99"
+        "price": "$14.99",
+        "weight": 266
       }
     ]
   },
@@ -1724,7 +1856,8 @@
         "name": "Lava Dragon",
         "year": 2009,
         "pieces": 131,
-        "price": "$14.99"
+        "price": "$14.99",
+        "weight": 0
       },
       {
         "id": 3839,
@@ -1736,7 +1869,8 @@
         "name": "Race 3000",
         "year": 2009,
         "pieces": 166,
-        "price": "$9.99"
+        "price": "$9.99",
+        "weight": 0
       },
       {
         "id": 3842,
@@ -1749,7 +1883,8 @@
         "name": "Lunar Command",
         "year": 2009,
         "pieces": 270,
-        "price": "N/A"
+        "price": "N/A",
+        "weight": 0
       },
       {
         "id": 3843,
@@ -1761,7 +1896,8 @@
         "name": "Ramses Pyramid",
         "year": 2009,
         "pieces": 217,
-        "price": "$9.99"
+        "price": "$9.99",
+        "weight": 0
       }
     ]
   },
@@ -1778,7 +1914,8 @@
         "name": "Beach Cruiser",
         "year": 2002,
         "pieces": 46,
-        "price": "$6.99"
+        "price": "$6.99",
+        "weight": 97
       }
     ]
   },
@@ -1795,7 +1932,8 @@
         "name": "Jungle River",
         "year": 2003,
         "pieces": 62,
-        "price": "$7.99"
+        "price": "$7.99",
+        "weight": 115
       }
     ]
   },
@@ -1812,7 +1950,8 @@
         "name": "Large Make and Create Bucket with Special LEGO Bonus Bricks",
         "year": 2005,
         "pieces": 700,
-        "price": "$19.99"
+        "price": "$19.99",
+        "weight": 0
       },
       {
         "id": 4423,
@@ -1824,7 +1963,8 @@
         "name": "Creator Handy Box",
         "year": 2005,
         "pieces": 800,
-        "price": "$14.99"
+        "price": "$14.99",
+        "weight": 1522
       },
       {
         "id": 4781,
@@ -1836,7 +1976,8 @@
         "name": "Box of Bricks",
         "year": 2005,
         "pieces": 300,
-        "price": "$5.99"
+        "price": "$5.99",
+        "weight": 474
       },
       {
         "id": 4782,
@@ -1848,7 +1989,8 @@
         "name": "Box of Bricks",
         "year": 2005,
         "pieces": 200,
-        "price": "$9.99"
+        "price": "$9.99",
+        "weight": 343
       },
       {
         "id": "628-3",
@@ -1861,7 +2003,8 @@
         "name": "X-Large Gray Baseplate (Light Bluish Gray)",
         "year": 2003,
         "pieces": 1,
-        "price": "N/A"
+        "price": "N/A",
+        "weight": 251
       }
     ]
   },
@@ -1878,7 +2021,8 @@
         "name": "Small House - Left Set",
         "year": 1958,
         "pieces": 21,
-        "price": "N/A"
+        "price": "N/A",
+        "weight": 23
       },
       {
         "id": "213-2",
@@ -1890,7 +2034,8 @@
         "name": "Small House - Right Set",
         "year": 1958,
         "pieces": 21,
-        "price": "N/A"
+        "price": "N/A",
+        "weight": 42
       },
       {
         "id": "200-1",
@@ -1902,7 +2047,8 @@
         "name": "Family",
         "year": 1974,
         "pieces": 78,
-        "price": "$4.99"
+        "price": "$4.99",
+        "weight": 165
       },
       {
         "id": "261-4",
@@ -1914,7 +2060,8 @@
         "name": "Complete Kitchen Set",
         "year": 1971,
         "pieces": 158,
-        "price": "N/A"
+        "price": "N/A",
+        "weight": 0
       },
       {
         "id": "329-1",
@@ -1926,7 +2073,8 @@
         "name": "Antique Car",
         "year": 1967,
         "pieces": 111,
-        "price": "N/A"
+        "price": "N/A",
+        "weight": 205
       },
       {
         "id": "330-3",
@@ -1938,7 +2086,8 @@
         "name": "Jeep",
         "year": 1968,
         "pieces": 65,
-        "price": "N/A"
+        "price": "N/A",
+        "weight": 0
       },
       {
         "id": "335-2",
@@ -1950,7 +2099,8 @@
         "name": "Transport Truck",
         "year": 1967,
         "pieces": 99,
-        "price": "N/A"
+        "price": "N/A",
+        "weight": 270
       },
       {
         "id": "336-1",
@@ -1962,7 +2112,8 @@
         "name": "Fire Engine",
         "year": 1968,
         "pieces": 76,
-        "price": "N/A"
+        "price": "N/A",
+        "weight": 0
       },
       {
         "id": "337-2",
@@ -1974,7 +2125,8 @@
         "name": "Truck with Crane and Caterpillar Track",
         "year": 1969,
         "pieces": 92,
-        "price": "N/A"
+        "price": "N/A",
+        "weight": 260
       },
       {
         "id": "344-1",
@@ -1986,7 +2138,8 @@
         "name": "Bungalow",
         "year": 1969,
         "pieces": 77,
-        "price": "N/A"
+        "price": "N/A",
+        "weight": 200
       },
       {
         "id": "347-1",
@@ -1998,7 +2151,8 @@
         "name": "Fire Station with Mini Cars",
         "year": 1970,
         "pieces": 189,
-        "price": "N/A"
+        "price": "N/A",
+        "weight": 520
       },
       {
         "id": "348-1",
@@ -2012,7 +2166,8 @@
         "name": "Garage with Automatic Doors",
         "year": 1971,
         "pieces": 38,
-        "price": "$0.99"
+        "price": "$0.99",
+        "weight": 106
       },
       {
         "id": "351-1",
@@ -2024,7 +2179,8 @@
         "name": "Loader Hopper with Truck",
         "year": 1971,
         "pieces": 165,
-        "price": "$2.49"
+        "price": "$2.49",
+        "weight": 430
       },
       {
         "id": "611-1",
@@ -2036,7 +2192,8 @@
         "name": "Police Car",
         "year": 1973,
         "pieces": 15,
-        "price": "$3.49"
+        "price": "$3.49",
+        "weight": 53
       },
       {
         "id": "615-2",
@@ -2048,7 +2205,8 @@
         "name": "Fork Lift with Driver",
         "year": 1975,
         "pieces": 13,
-        "price": "N/A"
+        "price": "N/A",
+        "weight": 0
       },
       {
         "id": "602-2",
@@ -2060,7 +2218,8 @@
         "name": "Fire Truck",
         "year": 1970,
         "pieces": 24,
-        "price": "N/A"
+        "price": "N/A",
+        "weight": 0
       },
       {
         "id": "621-2",
@@ -2072,7 +2231,8 @@
         "name": "Shell Tanker Truck",
         "year": 1970,
         "pieces": 35,
-        "price": "N/A"
+        "price": "N/A",
+        "weight": 91
       },
       {
         "id": "622-2",
@@ -2084,7 +2244,8 @@
         "name": "Baggage Carts",
         "year": 1970,
         "pieces": 33,
-        "price": "N/A"
+        "price": "N/A",
+        "weight": 95
       },
       {
         "id": "623-2",
@@ -2096,7 +2257,8 @@
         "name": "White Car and Camper",
         "year": 1970,
         "pieces": 32,
-        "price": "N/A"
+        "price": "N/A",
+        "weight": 86
       },
       {
         "id": "643-2",
@@ -2108,7 +2270,8 @@
         "name": "Mobile Crane",
         "year": 1971,
         "pieces": 27,
-        "price": "N/A"
+        "price": "N/A",
+        "weight": 0
       },
       {
         "id": "645-2",
@@ -2120,7 +2283,8 @@
         "name": "Milk Float \\& Trailer",
         "year": 1971,
         "pieces": 47,
-        "price": "N/A"
+        "price": "N/A",
+        "weight": 110
       },
       {
         "id": "646-2",
@@ -2132,7 +2296,8 @@
         "name": "Mobile Site Office",
         "year": 1971,
         "pieces": 43,
-        "price": "N/A"
+        "price": "N/A",
+        "weight": 88
       },
       {
         "id": "650-1",
@@ -2144,7 +2309,8 @@
         "name": "Car with Trailer and Racing Car",
         "year": 1972,
         "pieces": 30,
-        "price": "$5.49"
+        "price": "$5.49",
+        "weight": 0
       },
       {
         "id": "661-1",
@@ -2156,7 +2322,8 @@
         "name": "Spirit of St. Louis",
         "year": 1976,
         "pieces": 50,
-        "price": "$9.99"
+        "price": "$9.99",
+        "weight": 0
       },
       {
         "id": "1550",
@@ -2170,7 +2337,8 @@
         "name": "Sterling Super Caravelle",
         "year": 1972,
         "pieces": 44,
-        "price": "N/A"
+        "price": "N/A",
+        "weight": 0
       },
       {
         "id": "1551",
@@ -2184,7 +2352,8 @@
         "name": "Sterling Luggage Carrier",
         "year": 1972,
         "pieces": 33,
-        "price": "N/A"
+        "price": "N/A",
+        "weight": 8
       }
     ]
   },
@@ -2202,7 +2371,8 @@
         "name": "4.5V Motor Set with Rubber Tracks",
         "year": 1969,
         "pieces": 20,
-        "price": "N/A"
+        "price": "N/A",
+        "weight": 0
       },
       {
         "id": "126-1",
@@ -2214,7 +2384,8 @@
         "name": "Steam Locomotive (Push)",
         "year": 1970,
         "pieces": 60,
-        "price": "$5.49"
+        "price": "$5.49",
+        "weight": 110
       },
       {
         "id": "125-1",
@@ -2226,7 +2397,35 @@
         "name": "Tipping Wagon",
         "year": 1969,
         "pieces": 20,
-        "price": "N/A"
+        "price": "N/A",
+        "weight": 90
+      },
+      {
+        "id": "343-1",
+        "quantity": 1,
+        "instructions": true,
+        "complete": true,
+        "bagged": false,
+        "date": "15/11/20",
+        "name": "Train Ferry",
+        "year": 1968,
+        "pieces": 147,
+        "price": "N/A",
+        "weight": 468
+      },
+      {
+        "id": "903-1",
+        "quantity": 4,
+        "instructions": true,
+        "complete": true,
+        "complete amount": 1,
+        "bagged": true,
+        "date": "23/12/20",
+        "name": "Train Wheels and Couplers",
+        "year": 1969,
+        "pieces": 10,
+        "price": "N/A",
+        "weight": 34
       },
       {
         "id": "150-1",
@@ -2240,7 +2439,8 @@
         "name": "Straight Track",
         "year": 1966,
         "pieces": 25,
-        "price": "$1.99"
+        "price": "$1.99",
+        "weight": 125
       },
       {
         "id": "151-1",
@@ -2254,7 +2454,8 @@
         "name": "Curved Track",
         "year": 1966,
         "pieces": 25,
-        "price": "$1.99"
+        "price": "$1.99",
+        "weight": 119
       },
       {
         "id": "154-1",
@@ -2266,7 +2467,8 @@
         "name": "Switch Track - 1 Right and 1 Left",
         "year": 1967,
         "pieces": 4,
-        "price": "$1.99"
+        "price": "$1.99",
+        "weight": 102
       },
       {
         "id": "155-1",
@@ -2279,7 +2481,8 @@
         "name": "2 Cross Rails - 8 Straight Tracks, 4 Base Plates",
         "year": 1967,
         "pieces": 14,
-        "price": "$1.99"
+        "price": "$1.99",
+        "weight": 99
       },
       {
         "id": "158-1",
@@ -2292,19 +2495,8 @@
         "name": "Railroad Crossing Gate",
         "year": 1969,
         "pieces": 7,
-        "price": "$4.50"
-      },
-      {
-        "id": "343-1",
-        "quantity": 1,
-        "instructions": true,
-        "complete": true,
-        "bagged": false,
-        "date": "15/11/20",
-        "name": "Train Ferry",
-        "year": 1968,
-        "pieces": 147,
-        "price": "N/A"
+        "price": "$4.50",
+        "weight": 68
       }
     ]
   },
@@ -2321,7 +2513,8 @@
         "name": "Basic Building Set",
         "year": 1968,
         "pieces": 110,
-        "price": "N/A"
+        "price": "N/A",
+        "weight": 0
       },
       {
         "id": "055-2",
@@ -2333,7 +2526,8 @@
         "name": "Basic Building Set",
         "year": 1968,
         "pieces": 256,
-        "price": "N/A"
+        "price": "N/A",
+        "weight": 990
       },
       {
         "id": "414-6",
@@ -2347,7 +2541,8 @@
         "name": "Windows Parts Pack, White (System)",
         "year": 1966,
         "pieces": 10,
-        "price": "N/A"
+        "price": "N/A",
+        "weight": 24
       },
       {
         "id": "994-1",
@@ -2361,7 +2556,8 @@
         "name": "Fences with garden gates",
         "year": 1969,
         "pieces": 19,
-        "price": "N/A"
+        "price": "N/A",
+        "weight": 31
       },
       {
         "id": "906-1",
@@ -2373,7 +2569,8 @@
         "name": "12 doors and 5 hinges",
         "year": 1969,
         "pieces": 17,
-        "price": "N/A"
+        "price": "N/A",
+        "weight": 0
       },
       {
         "id": "400-4",
@@ -2387,7 +2584,8 @@
         "name": "Small Wheels with Axles (System)",
         "year": 1963,
         "pieces": 12,
-        "price": "N/A"
+        "price": "N/A",
+        "weight": 41
       },
       {
         "id": "401-2",
@@ -2401,7 +2599,8 @@
         "name": "Large Wheels with Axles (The Building Toy)",
         "year": 1966,
         "pieces": 7,
-        "price": "N/A"
+        "price": "N/A",
+        "weight": 36
       },
       {
         "id": "900-2",
@@ -2413,7 +2612,8 @@
         "name": "4 Small Wheels with Accessories",
         "year": 1969,
         "pieces": 12,
-        "price": "N/A"
+        "price": "N/A",
+        "weight": 0
       },
       {
         "id": "901-2",
@@ -2427,7 +2627,8 @@
         "name": "2 Large Wheels with Accessories",
         "year": 1969,
         "pieces": 7,
-        "price": "N/A"
+        "price": "N/A",
+        "weight": 34
       },
       {
         "id": "971-1",
@@ -2441,7 +2642,8 @@
         "name": "52 flat tile bricks",
         "year": 1969,
         "pieces": 52,
-        "price": "N/A"
+        "price": "N/A",
+        "weight": 0
       },
       {
         "id": "988-1",
@@ -2455,7 +2657,8 @@
         "name": "Alphabet Bricks",
         "year": 1969,
         "pieces": 52,
-        "price": "N/A"
+        "price": "N/A",
+        "weight": 0
       },
       {
         "id": "987-1",
@@ -2468,7 +2671,8 @@
         "name": "Number Bricks",
         "year": 1969,
         "pieces": 52,
-        "price": "N/A"
+        "price": "N/A",
+        "weight": 0
       },
       {
         "id": "437-1",
@@ -2480,7 +2684,8 @@
         "name": "50 numbered bricks (The Building Toy)",
         "year": 1966,
         "pieces": 50,
-        "price": "N/A"
+        "price": "N/A",
+        "weight": 30
       },
       {
         "id": "488-1",
@@ -2493,7 +2698,8 @@
         "name": "1 x 1 Bricks with Letters (System)",
         "year": 1966,
         "pieces": 44,
-        "price": "N/A"
+        "price": "N/A",
+        "weight": 29
       },
       {
         "id": "700-0",
@@ -2506,7 +2712,8 @@
         "name": "Individual 2 x 4 Bricks",
         "year": 1950,
         "pieces": 1,
-        "price": "N/A"
+        "price": "N/A",
+        "weight": 0
       },
       {
         "id": "218-2",
@@ -2520,7 +2727,8 @@
         "name": "2 x 4 Bricks",
         "year": 1958,
         "pieces": 13,
-        "price": "N/A"
+        "price": "N/A",
+        "weight": 51
       },
       {
         "id": "220-1",
@@ -2534,20 +2742,23 @@
         "name": "2 x 2 Bricks",
         "year": 1958,
         "pieces": 20,
-        "price": "N/A"
+        "price": "N/A",
+        "weight": 27
       },
       {
         "id": "224-3",
-        "quantity": 1,
+        "quantity": 2,
         "instructions": false,
         "complete": true,
+        "complete amount": 1,
         "bagged": true,
         "date": "5/12/20",
-        "comment": "red, 19 pieces (EU)",
+        "comment": "red 19 pieces (EU), clear 12 pieces, extra: blue 5x, white 3x",
         "name": "2 x 2 Curved Bricks",
         "year": 1958,
         "pieces": 20,
-        "price": "N/A"
+        "price": "N/A",
+        "weight": 0
       },
       {
         "id": "423-3",
@@ -2561,7 +2772,8 @@
         "name": "Curved and Round Bricks (The Building Toy)",
         "year": 1966,
         "pieces": 28,
-        "price": "N/A"
+        "price": "N/A",
+        "weight": 23
       },
       {
         "id": "416-1",
@@ -2575,7 +2787,8 @@
         "name": "4 Sixteens 2 Twenties (The Building Toy)",
         "year": 1966,
         "pieces": 6,
-        "price": "N/A"
+        "price": "N/A",
+        "weight": 38
       },
       {
         "id": "417-4",
@@ -2588,7 +2801,8 @@
         "name": "Cornerbricks (System)",
         "year": 1966,
         "pieces": 10,
-        "price": "N/A"
+        "price": "N/A",
+        "weight": 47
       },
       {
         "id": "480-5",
@@ -2601,7 +2815,8 @@
         "name": "Slopes and Slopes Double 2 x 4, Blue (The Building Toy)",
         "year": 1966,
         "pieces": 14,
-        "price": "N/A"
+        "price": "N/A",
+        "weight": 34
       },
       {
         "id": "480-6",
@@ -2615,7 +2830,8 @@
         "name": "Slopes and Slopes Double 2 x 4, Red (System)",
         "year": 1966,
         "pieces": 23,
-        "price": "N/A"
+        "price": "N/A",
+        "weight": 0
       },
       {
         "id": "481-3",
@@ -2628,7 +2844,8 @@
         "name": "Slopes and Slopes Double 2 x 3 and 2 x 1, Red (The Building Toy)",
         "year": 1966,
         "pieces": 21,
-        "price": "N/A"
+        "price": "N/A",
+        "weight": 28
       },
       {
         "id": "481-4",
@@ -2641,7 +2858,8 @@
         "name": "Slopes and Slopes Double 2 x 3 an 2 x 1, Blue (The Building Toy)",
         "year": 1966,
         "pieces": 21,
-        "price": "N/A"
+        "price": "N/A",
+        "weight": 28
       },
       {
         "id": "481-6",
@@ -2654,7 +2872,8 @@
         "name": "Slopes Regular, Double, Angle, Valley and Corner, Blue (System)",
         "year": 1966,
         "pieces": 34,
-        "price": "N/A"
+        "price": "N/A",
+        "weight": 42
       },
       {
         "id": "483-5",
@@ -2667,7 +2886,8 @@
         "name": "Angle, Valley and Corner Slopes, Blue (The Building Toy)",
         "year": 1966,
         "pieces": 20,
-        "price": "N/A"
+        "price": "N/A",
+        "weight": 24
       },
       {
         "id": "482-4",
@@ -2680,7 +2900,8 @@
         "name": "Slopes and Slopes Double 2 x 2, Blue (The Building Toy)",
         "year": 1966,
         "pieces": 22,
-        "price": "N/A"
+        "price": "N/A",
+        "weight": 29
       },
       {
         "id": "915-1",
@@ -2693,7 +2914,8 @@
         "name": "6 bricks with 16 and 20 studs and 3 Angle Bricks",
         "year": 1969,
         "pieces": 9,
-        "price": "N/A"
+        "price": "N/A",
+        "weight": 0
       },
       {
         "id": "402-2",
@@ -2705,7 +2927,8 @@
         "name": "White Turntables",
         "year": 1964,
         "pieces": 5,
-        "price": "N/A"
+        "price": "N/A",
+        "weight": 24
       },
       {
         "id": "902-1",
@@ -2718,7 +2941,8 @@
         "name": "5 Turntables",
         "year": 1969,
         "pieces": 5,
-        "price": "N/A"
+        "price": "N/A",
+        "weight": 36
       },
       {
         "id": "801-1",
@@ -2730,7 +2954,8 @@
         "name": "Gear Set",
         "year": 1970,
         "pieces": 111,
-        "price": "N/A"
+        "price": "N/A",
+        "weight": 408
       },
       {
         "id": "802-1",
@@ -2744,7 +2969,8 @@
         "name": "Gear Supplementary Set",
         "year": 1970,
         "pieces": 30,
-        "price": "N/A"
+        "price": "N/A",
+        "weight": 160
       },
       {
         "id": "995-1",
@@ -2757,7 +2983,8 @@
         "name": "Lighting Bricks with Color Filters",
         "year": 1969,
         "pieces": 15,
-        "price": "N/A"
+        "price": "N/A",
+        "weight": 0
       }
     ]
   },
@@ -2776,7 +3003,8 @@
         "name": "Individual 10 x 20 Baseplate",
         "year": 1954,
         "pieces": 1,
-        "price": "N/A"
+        "price": "N/A",
+        "weight": 0
       },
       {
         "id": "700-1",
@@ -2790,7 +3018,8 @@
         "name": "10 x 20 Brickplate",
         "year": 1966,
         "pieces": 1,
-        "price": "N/A"
+        "price": "N/A",
+        "weight": 0
       },
       {
         "id": "796-1",
@@ -2804,7 +3033,8 @@
         "name": "Baseplates, Green and Yellow",
         "year": 1971,
         "pieces": 2,
-        "price": "N/A"
+        "price": "N/A",
+        "weight": 0
       },
       {
         "id": "797-1",
@@ -2816,7 +3046,8 @@
         "name": "2 large baseplates, gray/white",
         "year": 1971,
         "pieces": 2,
-        "price": "N/A"
+        "price": "N/A",
+        "weight": 0
       },
       {
         "id": "795-1",
@@ -2828,7 +3059,8 @@
         "name": "Baseplates, Red and Blue",
         "year": 1971,
         "pieces": 2,
-        "price": "N/A"
+        "price": "N/A",
+        "weight": 0
       },
       {
         "id": "798-1",
@@ -2842,7 +3074,8 @@
         "name": "Baseplates, Green",
         "year": 1972,
         "pieces": 2,
-        "price": "$3.10"
+        "price": "$3.10",
+        "weight": 0
       },
       {
         "id": "449-1",
@@ -2855,7 +3088,8 @@
         "name": "50 x 50 Large Baseplate",
         "year": 1969,
         "pieces": 1,
-        "price": "N/A"
+        "price": "N/A",
+        "weight": 0
       },
       {
         "id": "800-3",
@@ -2867,7 +3101,8 @@
         "name": "Town Plan",
         "year": 1966,
         "pieces": 1,
-        "price": "N/A"
+        "price": "N/A",
+        "weight": 0
       }
     ]
   },
@@ -2885,7 +3120,8 @@
         "name": "Flying Frog",
         "year": 2003,
         "pieces": 43,
-        "price": "\\infinity"
+        "price": "\\infinity",
+        "weight": 0
       }
     ]
   }

@@ -36,11 +36,17 @@ def get_data(set_id):
 
     td = page_soup.findAll("td", {"valign" : "TOP", "width" : "38%"})
     year = int(td[0].findAll("a")[0].text)
+    weight = td[0].findAll("span")[0].text[:-1]
+
+    print(set_id, weight)
+
+    weight = int(round(float(weight))) if weight != "" else 0
+
 
     td = page_soup.findAll("td", {"valign" : "TOP", "width" : "31%"})
     pieces = int(td[0].findAll("a")[0].text.split(" ")[0])
 
-    data = {"name" : name, "year" : year, "pieces" : pieces}
+    data = {"name" : name, "year" : year, "pieces" : pieces, "weight" : weight}
     return data
 
 
@@ -65,12 +71,16 @@ def update_data(lego_sets):
 
     for ls in lego_sets:
         si = ls["id"]
-        data = get_data(si)
-        price = get_price(si)
-        data["price"] = price if price else "N/A"
-        for key in data:
-            if not ls[key]:
-                ls[key] = data[key]
+        try:
+            data = get_data(si)
+            price = get_price(si)
+            data["price"] = price if price else "N/A"
+            for key in data:
+                if not ls[key]:
+                    ls[key] = data[key]
+        except Exception as e:
+            print(si)
+
 
     driver.quit()
 
@@ -80,7 +90,7 @@ def copy_all_data(set_info, all_data):
     already_data = {ls["id"] : ls for elem in all_data for ls in elem["sets"]}
     all_sets = [ls for elem in set_info for ls in elem["sets"]]
 
-    default_info = {"name" : "", "year" : 0, "pieces" : 0, "price" : ""}
+    default_info = {"name" : "", "year" : 0, "pieces" : 0, "price" : "", "weight" : 0}
 
     for ls in all_sets:
         si = ls["id"]
@@ -99,7 +109,7 @@ def remove_complete(set_info, all_data):
     data = copy_all_data(set_info, all_data)
 
     not_complete_sets = [ls for elem in data for ls in elem["sets"]
-                         if not(ls["name"] and ls["year"] and ls["pieces"] and ls["price"])]
+                         if not(ls["name"] and ls["year"] and ls["pieces"] and ls["price"] and ls["weight"])]
 
     return not_complete_sets
 

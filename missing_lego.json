@@ -1347,5 +1347,33 @@
                 "comment": "2x8 brick"
             }
         ]
+    },
+    {
+        "id": "224-3",
+        "missing": [
+            {
+                "id": "3063",
+                "color": "clear",
+                "amount": 7,
+                "comment": "2x2 curved brick"
+            }
+        ]
+    },
+    {
+        "id": "903-1",
+        "missing": [
+            {
+                "id": "737",
+                "color": "red",
+                "amount": 3,
+                "comment": "2x4 plate with hole"
+            },
+            {
+                "id": "737bc01",
+                "color": "red",
+                "amount": 5,
+                "comment": "2x4 plate with hook"
+            }
+        ]
     }
 ]
