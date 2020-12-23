@@ -2564,6 +2564,20 @@
         "price": "N/A"
       },
       {
+        "id": "416-1",
+        "quantity": 2,
+        "instructions": false,
+        "complete": false,
+        "complete amount": 0,
+        "bagged": true,
+        "date": "23/12/20",
+        "comment": "2x blue + yellow, extra: 3x blue 2x10 brick, 3x yellow 2x10 brick",
+        "name": "4 Sixteens 2 Twenties (The Building Toy)",
+        "year": 1966,
+        "pieces": 6,
+        "price": "N/A"
+      },
+      {
         "id": "417-4",
         "quantity": 1,
         "instructions": false,
@@ -2699,7 +2713,7 @@
         "instructions": true,
         "complete": true,
         "complete amount": 1,
-        "bagged": false,
+        "bagged": true,
         "date": "21/12/20",
         "name": "5 Turntables",
         "year": 1969,
@@ -2737,7 +2751,7 @@
         "quantity": 1,
         "instructions": true,
         "complete": false,
-        "bagged": false,
+        "bagged": true,
         "date": "15/11/20",
         "comment": "missing cable, extra 2x 3134 1x2 brick with cable cutout",
         "name": "Lighting Bricks with Color Filters",

@@ -1778,6 +1778,16 @@
                 "comment": "2x red + white (1x complete), 2x blue + yellow (1x complete), 1x black + clear"
             },
             {
+                "id": "416-1",
+                "quantity": 2,
+                "instructions": false,
+                "complete": false,
+                "complete amount": 0,
+                "bagged": true,
+                "date": "23/12/20",
+                "comment": "2x blue + yellow, extra: 3x blue 2x10 brick, 3x yellow 2x10 brick"
+            },
+            {
                 "id": "417-4",
                 "quantity": 1,
                 "instructions": false,
@@ -1873,7 +1883,7 @@
                 "instructions": true,
                 "complete": true,
                 "complete amount": 1,
-                "bagged": false,
+                "bagged": true,
                 "date": "21/12/20"
             },
             {
@@ -1899,7 +1909,7 @@
                 "quantity": 1,
                 "instructions": true,
                 "complete": false,
-                "bagged": false,
+                "bagged": true,
                 "date": "15/11/20",
                 "comment": "missing cable, extra 2x 3134 1x2 brick with cable cutout"
             }
