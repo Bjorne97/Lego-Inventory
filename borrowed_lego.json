@@ -48,5 +48,196 @@
                 "amount": 4
             }
         ]
+    },
+    {
+        "id": "Technic Extra",
+        "borrowed": [
+            {
+                "id": "4265c",
+                "color": "light gray",
+                "amount": 28,
+                "comment": "1/2 axle stopper"
+            },
+            {
+                "id": "4265c",
+                "color": "yellow",
+                "amount": 4,
+                "comment": "1/2 axle stopper"
+            },
+            {
+                "id": "3713",
+                "color": "light gray",
+                "amount": 28,
+                "comment": "1/2 axle stopper"
+            },
+            {
+                "id": "6587",
+                "color": "tan",
+                "amount": 1,
+                "comment": "l3 axle + stud"
+            },
+            {
+                "id": "3705",
+                "color": "black",
+                "amount": 7,
+                "comment": "l4 axle"
+            },
+            {
+                "id": "3706",
+                "color": "black",
+                "amount": 1,
+                "comment": "l6 axle"
+            },
+            {
+                "id": "3737",
+                "color": "black",
+                "amount": 3,
+                "comment": "l10 axle"
+            },
+            {
+                "id": "3708",
+                "color": "black",
+                "amount": 1,
+                "comment": "l12 axle"
+            },
+            {
+                "id": "6553",
+                "color": "black",
+                "amount": 8,
+                "comment": "pole Reverser Handle / Axle Connector"
+            },
+            {
+                "id": "43093",
+                "color": "blue",
+                "amount": 2,
+                "comment": "2l axle + pin"
+            },
+            {
+                "id": "2780",
+                "color": "black",
+                "amount": 39,
+                "comment": "2l pin"
+            },
+            {
+                "id": "3673",
+                "color": "light gray",
+                "amount": 1,
+                "comment": "2l pin"
+            },
+            {
+                "id": "4274",
+                "color": "light gray",
+                "amount": 19,
+                "comment": "1l pin"
+            },
+            {
+                "id": "4274",
+                "color": "blue",
+                "amount": 12,
+                "comment": "1l pin"
+            },
+            {
+                "id": "4274",
+                "color": "white",
+                "amount": 1,
+                "comment": "1l pin"
+            },
+            {
+                "id": "32002",
+                "color": "dark gray",
+                "amount": 17,
+                "comment": "1.5l pin"
+            },
+            {
+                "id": "3647",
+                "color": "dark gray",
+                "amount": 1,
+                "comment": "8t gear"
+            },
+            {
+                "id": "3647",
+                "color": "light gray",
+                "amount": 5,
+                "comment": "8t gear"
+            },
+            {
+                "id": "3648",
+                "color": "light gray",
+                "amount": 8,
+                "comment": "24t gear"
+            },
+            {
+                "id": "32014",
+                "color": "black",
+                "amount": 4,
+                "comment": "90 degree axle connector"
+            },
+            {
+                "id": "32291",
+                "color": "black",
+                "amount": 4,
+                "comment": "axle and pin connector perpendicular double"
+            },
+            {
+                "id": "32184",
+                "color": "black",
+                "amount": 1,
+                "comment": "axle and pin connector perpendicular l3 with center pin hole"
+            },
+            {
+                "id": "32056",
+                "color": "black",
+                "amount": 6,
+                "comment": "3x3 L-shape thin"
+            },
+            {
+                "id": "32140",
+                "color": "black",
+                "amount": 4,
+                "comment": "2x4 L-shape thick"
+            },
+            {
+                "id": "60484",
+                "color": "black",
+                "amount": 4,
+                "comment": "3x3 T-shape thick"
+            },
+            {
+                "id": "40490",
+                "color": "white",
+                "amount": 1,
+                "comment": "1x9 thick"
+            },
+            {
+                "id": "32278",
+                "color": "white",
+                "amount": 1,
+                "comment": "1x15 thick"
+            },
+            {
+                "id": "32009",
+                "color": "dark gray",
+                "amount": 1,
+                "comment": "1x11.5 double bent thick"
+            },
+            {
+                "id": "6247",
+                "color": "blue",
+                "amount": 8,
+                "comment": "1x11 link with pin hole ends"
+            },
+            {
+                "id": "2637",
+                "color": "light gray",
+                "amount": 6,
+                "comment": "1x16 link with pin hole ends"
+            },
+            {
+                "id": "75c10",
+                "color": "black",
+                "amount": 1,
+                "comment": "l10 hose"
+            },
+        ]
     }
 ]
