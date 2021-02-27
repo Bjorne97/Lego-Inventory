@@ -1302,88 +1302,88 @@
                 "quantity": 1,
                 "instructions": true,
                 "complete": false,
-                "bagged": false,
-                "date": "11/12/20"
+                "bagged": true,
+                "date": "27/02/21"
             },
             {
                 "id": "213-2",
                 "quantity": 1,
                 "instructions": true,
                 "complete": false,
-                "bagged": false,
-                "date": "11/12/20"
+                "bagged": true,
+                "date": "27/02/21"
             },
             {
                 "id": "200-1",
                 "quantity": 1,
                 "instructions": true,
                 "complete": false,
-                "bagged": false,
-                "date": "15/11/20"
+                "bagged": true,
+                "date": "27/02/21"
             },
             {
                 "id": "261-4",
                 "quantity": 1,
                 "instructions": true,
                 "complete": false,
-                "bagged": false,
-                "date": "15/11/20"
+                "bagged": true,
+                "date": "27/02/21"
             },
             {
                 "id": "329-1",
                 "quantity": 1,
                 "instructions": true,
                 "complete": false,
-                "bagged": false,
-                "date": "11/12/20"
+                "bagged": true,
+                "date": "27/02/21"
             },
             {
                 "id": "330-3",
                 "quantity": 1,
                 "instructions": true,
                 "complete": true,
-                "bagged": false,
-                "date": "11/12/20"
+                "bagged": true,
+                "date": "27/02/21"
             },
             {
                 "id": "335-2",
                 "quantity": 1,
                 "instructions": true,
                 "complete": false,
-                "bagged": false,
-                "date": "15/11/20"
+                "bagged": true,
+                "date": "27/02/21"
             },
             {
                 "id": "336-1",
                 "quantity": 1,
                 "instructions": true,
                 "complete": true,
-                "bagged": false,
-                "date": "15/11/20"
+                "bagged": true,
+                "date": "27/02/21"
             },
             {
                 "id": "337-2",
                 "quantity": 1,
                 "instructions": true,
                 "complete": false,
-                "bagged": false,
-                "date": "11/12/20"
+                "bagged": true,
+                "date": "27/02/21"
             },
             {
                 "id": "344-1",
                 "quantity": 1,
                 "instructions": true,
                 "complete": false,
-                "bagged": false,
-                "date": "15/11/20"
+                "bagged": true,
+                "date": "27/02/21"
             },
             {
                 "id": "347-1",
                 "quantity": 1,
                 "instructions": true,
                 "complete": false,
-                "bagged": false,
-                "date": "15/11/20"
+                "bagged": true,
+                "date": "27/02/21"
             },
             {
                 "id": "348-1",
@@ -1391,8 +1391,8 @@
                 "instructions": true,
                 "complete": true,
                 "complete amount": 1,
-                "bagged": false,
-                "date": "15/11/20",
+                "bagged": true,
+                "date": "27/02/21",
                 "comment": "1x complete"
             },
             {
@@ -1400,96 +1400,96 @@
                 "quantity": 1,
                 "instructions": true,
                 "complete": false,
-                "bagged": false,
-                "date": "15/11/20"
+                "bagged": true,
+                "date": "27/02/21"
             },
             {
                 "id": "611-1",
                 "quantity": 1,
                 "instructions": true,
                 "complete": true,
-                "bagged": false,
-                "date": "15/11/20"
+                "bagged": true,
+                "date": "27/02/21"
             },
             {
                 "id": "615-2",
                 "quantity": 1,
                 "instructions": true,
                 "complete": false,
-                "bagged": false,
-                "date": "15/11/20"
+                "bagged": true,
+                "date": "27/02/21"
             },
             {
                 "id": "602-2",
                 "quantity": 1,
                 "instructions": true,
                 "complete": false,
-                "bagged": false,
-                "date": "11/12/20"
+                "bagged": true,
+                "date": "27/02/21"
             },
             {
                 "id": "621-2",
                 "quantity": 1,
                 "instructions": true,
                 "complete": true,
-                "bagged": false,
-                "date": "15/11/20"
+                "bagged": true,
+                "date": "27/02/21"
             },
             {
                 "id": "622-2",
                 "quantity": 1,
                 "instructions": true,
                 "complete": true,
-                "bagged": false,
-                "date": "15/11/20"
+                "bagged": true,
+                "date": "27/02/21"
             },
             {
                 "id": "623-2",
                 "quantity": 1,
                 "instructions": true,
                 "complete": true,
-                "bagged": false,
-                "date": "15/11/20"
+                "bagged": true,
+                "date": "27/02/21"
             },
             {
                 "id": "643-2",
                 "quantity": 1,
                 "instructions": true,
                 "complete": false,
-                "bagged": false,
-                "date": "15/11/20"
+                "bagged": true,
+                "date": "27/02/21"
             },
             {
                 "id": "645-2",
                 "quantity": 1,
                 "instructions": true,
                 "complete": true,
-                "bagged": false,
-                "date": "15/11/20"
+                "bagged": true,
+                "date": "27/02/21"
             },
             {
                 "id": "646-2",
                 "quantity": 1,
                 "instructions": true,
                 "complete": true,
-                "bagged": false,
-                "date": "15/11/20"
+                "bagged": true,
+                "date": "27/02/21"
             },
             {
                 "id": "650-1",
                 "quantity": 1,
                 "instructions": true,
                 "complete": false,
-                "bagged": false,
-                "date": "15/11/20"
+                "bagged": true,
+                "date": "27/02/21"
             },
             {
                 "id": "661-1",
                 "quantity": 1,
                 "instructions": true,
                 "complete": false,
-                "bagged": false,
-                "date": "15/11/20"
+                "bagged": true,
+                "date": "27/02/21"
             },
             {
                 "id": "1550",
@@ -1497,8 +1497,8 @@
                 "instructions": true,
                 "complete": true,
                 "complete amount": 1,
-                "bagged": false,
-                "date": "15/11/20",
+                "bagged": true,
+                "date": "27/02/21",
                 "comment": "1x complete"
             },
             {
@@ -1507,8 +1507,8 @@
                 "instructions": true,
                 "complete": true,
                 "complete amount": 1,
-                "bagged": false,
-                "date": "15/11/20",
+                "bagged": true,
+                "date": "27/02/21",
                 "comment": "1x complete"
             }
 
@@ -1531,24 +1531,24 @@
                 "quantity": 1,
                 "instructions": true,
                 "complete": false,
-                "bagged": false,
-                "date": "15/11/20"
+                "bagged": true,
+                "date": "27/02/21"
             },
             {
                 "id": "125-1",
                 "quantity": 1,
                 "instructions": true,
                 "complete": false,
-                "bagged": false,
-                "date": "15/11/20"
+                "bagged": true,
+                "date": "27/02/21"
             },
             {
                 "id": "343-1",
                 "quantity": 1,
                 "instructions": true,
                 "complete": true,
-                "bagged": false,
-                "date": "15/11/20"
+                "bagged": true,
+                "date": "27/02/21"
             },
             {
                 "id": "903-1",
@@ -1602,8 +1602,8 @@
                 "instructions": true,
                 "complete": true,
                 "complete amount": 2,
-                "bagged": false,
-                "date": "15/11/20"
+                "bagged": true,
+                "date": "27/02/21"
             }
         ]
     },

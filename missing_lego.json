@@ -1375,5 +1375,228 @@
                 "comment": "2x4 plate with hook"
             }
         ]
+    },
+    {
+        "id": "212-1",
+        "missing": [
+            {
+                "id": "crsspt01",
+                "color": "white",
+                "amount": 1,
+                "comment": "1x8 brick",
+                "replaced": "blue"
+            }
+        ]
+    },
+    {
+        "id": "213-2",
+        "missing": [
+            {
+                "id": "crsspt01",
+                "color": "white",
+                "amount": 1,
+                "comment": "1x8 brick",
+                "replaced": "blue"
+            },
+            {
+                "id": "3062",
+                "color": "blue",
+                "amount": 4,
+                "comment": "1x1 cylinder brick",
+                "replaced": "yellow"
+            }
+        ]
+    },
+    {
+        "id": "336-1",
+        "missing": [
+            {
+                "id": "3028",
+                "color": "red",
+                "amount": 1,
+                "comment": "6x12 plate, broken into 2"
+            }
+        ]
+    },
+    {
+        "id": "343-1",
+        "missing": [
+            {
+                "id": "911",
+                "color": "light gray",
+                "amount": 1,
+                "comment": "10x48 plate, broken into 2"
+            }
+        ]
+    },
+    {
+        "id": "329-1",
+        "missing": [
+            {
+                "id": "3010",
+                "color": "black",
+                "amount": 2,
+                "comment": "1x4 brick",
+                "replaced": "blue"
+            },
+            {
+                "id": "3009",
+                "color": "black",
+                "amount": 1,
+                "comment": "1x6 brick",
+                "replaced": "clear"
+            },
+            {
+                "id": "3024",
+                "color": "light gray",
+                "amount": 2,
+                "comment": "1x1 plate",
+                "replaced": "white"
+            },
+            {
+                "id": "3023",
+                "color": "clear",
+                "amount": 1,
+                "comment": "1x2 plate",
+                "replaced": "white"
+            },
+            {
+                "id": "3023",
+                "color": "yellow",
+                "amount": 3,
+                "comment": "1x2 plate",
+                "replaced": "white"
+            },
+            {
+                "id": "35",
+                "color": "red",
+                "amount": 2,
+                "comment": "wheel spoked large",
+                "replaced": "2x 715, large wheel with studs"
+            }
+        ]
+    },
+    {
+        "id": "337-2",
+        "missing": [
+            {
+                "id": "803",
+                "color": "light gray",
+                "amount": 1,
+                "comment": "wheel base 4x12, broken"
+            },
+            {
+                "id": "709",
+                "color": "red",
+                "amount": 1,
+                "comment": "4x6 plate with hole",
+                "replaced": "2x 3020, 2x4 plate white, 2x 3023, 1x2 plate white"
+            },
+            {
+                "id": "3020",
+                "color": "red",
+                "amount": 1,
+                "comment": "2x4 plate",
+                "replaced": "light gray"
+            },
+            {
+                "id": "bb0067",
+                "color": "red",
+                "amount": 1,
+                "comment": "string reel winch, red drum",
+                "replaced": "black drum"
+            },
+            {
+                "id": "3009",
+                "color": "red",
+                "amount": 1,
+                "comment": "1x6 brick",
+                "replaced": "clear"
+            },
+            {
+                "id": "3023",
+                "color": "light gray",
+                "amount": 1,
+                "comment": "1x2 plate",
+                "replaced": "white"
+            },
+            {
+                "id": "3022",
+                "color": "clear",
+                "amount": 1,
+                "comment": "2x2 plate",
+                "replaced": "white"
+            },
+            {
+                "id": "x486",
+                "color": "black",
+                "amount": 2,
+                "comment": "rubber wheel band"
+            }
+        ]
+    },
+    {
+        "id": "602-2",
+        "missing": [
+            {
+                "id": "3005",
+                "color": "red",
+                "amount": 3,
+                "comment": "1x1 brick",
+                "replaced": "blue"
+            },
+            {
+                "id": "3010",
+                "color": "red",
+                "amount": 2,
+                "comment": "1x4 brick",
+                "replaced": "blue"
+            },
+            {
+                "id": "3137c01",
+                "color": "black",
+                "amount": 1,
+                "comment": "2x2 brick with red wheels"
+            },
+            {
+                "id": "3139",
+                "color": "black",
+                "amount": 2,
+                "comment": "tire for small wheel"
+            },
+            {
+                "id": "3188",
+                "color": "red",
+                "amount": 1,
+                "comment": "1x3x2 right door"
+            },
+            {
+                "id": "3189",
+                "color": "red",
+                "amount": 1,
+                "comment": "1x3x2 left door"
+            },
+            {
+                "id": "3020",
+                "color": "red",
+                "amount": 2,
+                "comment": "2x4 plate",
+                "replaced": "blue"
+            },
+            {
+                "id": "3035",
+                "color": "light gray",
+                "amount": 1,
+                "comment": "4x8 plate",
+                "replaced": "white"
+            },
+            {
+                "id": "3030",
+                "color": "red",
+                "amount": 1,
+                "comment": "4x10 plate",
+                "replaced": "1x 3035, 4x8 plate white"
+            }
+        ]
     }
 ]
